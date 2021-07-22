@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="PrescriptionsClassLibrary" Version="0.0.0-beta-35" />
+    <PackageReference Include="PrescriptionsClassLibrary" Version="0.0.0-beta-38" />
   </ItemGroup>
 
 </Project>
