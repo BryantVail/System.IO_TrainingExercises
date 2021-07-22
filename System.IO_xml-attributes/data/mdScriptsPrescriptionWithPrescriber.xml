@@ -1,0 +1,2441 @@
+<Patient>
+	<PatientDescriptor>
+		<id>Y54ZVDK4EJ</id>
+		<siteId>WQQSA2JUMH</siteId>
+		<createdDate>2019-11-19T21:34:31</createdDate>
+		<externalId>205772</externalId>
+		<isDeleted>false</isDeleted>
+		<firstName>GRACE EILEEN</firstName>
+		<middleName />
+		<lastName>BENDER</lastName>
+		<address>PO BOX 53</address>
+		<address2 />
+		<city>NEWTOWN</city>
+		<state>Indiana</state>
+		<zip>47969</zip>
+		<countryCode />
+		<email />
+		<homePhone>7652995044</homePhone>
+		<cellPhone>7652995044</cellPhone>
+		<workPhone />
+		<dob>20091009</dob>
+		<heightInches>58.0</heightInches>
+		<weightLbs>96.0</weightLbs>
+		<gender>f</gender>
+		<ssn />
+		<race />
+		<ethnicity />
+		<language />
+		<claimsEnc />
+		<medications>68084057211|20210708,00378363701|20191127,47463001101|20191119</medications>
+		<illnesses />
+		<allergies />
+		<doctorId>1YPRJ75VCQ</doctorId>
+		<isDeactivated>false</isDeactivated>
+		<deactivatedReason />
+		<billingApproveDate />
+		<authorizationId />
+		<wellnessId />
+		<refillMethod>0</refillMethod>
+		<refillNotification>0</refillNotification>
+		<groupName>HS1001</groupName>
+		<origin>RemoteLogin</origin>
+		<nextVisitDate>0</nextVisitDate>
+		<claims />
+		<isCommitted>true</isCommitted>
+		<addressVerified>true</addressVerified>
+		<physicianAssistantId />
+		<consentDate>0</consentDate>
+		<lastPDMPCheckDate>0</lastPDMPCheckDate>
+		<claimIdx>0</claimIdx>
+		<medicationsGCN />
+		<notes />
+	</PatientDescriptor>
+	<SiteDescriptor>
+		<cacheTime>0</cacheTime>
+		<id>WQQSA2JUMH</id>
+		<organizationId>SFBJUTH7V8</organizationId>
+		<siteNumber>68606</siteNumber>
+		<referenceSiteId>13306-014</referenceSiteId>
+		<locationGUID />
+		<createdDate>2019-03-28T14:22:24</createdDate>
+		<trainingCompleteDate>0</trainingCompleteDate>
+		<liveDate>1553782944692</liveDate>
+		<isDemo>false</isDemo>
+		<isDeleted>false</isDeleted>
+		<isArchived>false</isArchived>
+		<notes />
+		<siteType>Employer Health</siteType>
+		<doCash>true</doCash>
+		<doWC>true</doWC>
+		<doPI>false</doPI>
+		<doPIP>false</doPIP>
+		<defaultBillingType>0</defaultBillingType>
+		<doBulk>true</doBulk>
+		<doDME>false</doDME>
+		<legalName>Harrison Steel Employee Clinic</legalName>
+		<name>Harrison Steel Employee Clinic</name>
+		<address>101 Suzie Ln</address>
+		<address2 />
+		<city>Attica</city>
+		<state>Indiana</state>
+		<zip>479182009</zip>
+		<countryCode />
+		<phone>7657626789</phone>
+		<fax>7657626766</fax>
+		<latitude>40.2888942</latitude>
+		<longitude>-87.2415022</longitude>
+		<contractPercent>0.0</contractPercent>
+		<piContractPercent>0.0</piContractPercent>
+		<pharmacyLabel>Pharmex F</pharmacyLabel>
+		<doDrugImprints>false</doDrugImprints>
+		<currentRxNumber>105528</currentRxNumber>
+		<currentSampleNumber>900000</currentSampleNumber>
+		<durOption>1</durOption>
+		<durDupTherapy>true</durDupTherapy>
+		<durCurrentRxOnly>false</durCurrentRxOnly>
+		<safetyCheckOption>0</safetyCheckOption>
+		<newRxNameOption>0</newRxNameOption>
+		<autoDeleteDepleted>true</autoDeleteDepleted>
+		<doProducts>true</doProducts>
+		<doServices>false</doServices>
+		<sigSelect>false</sigSelect>
+		<doRefills>true</doRefills>
+		<selectAndScan>false</selectAndScan>
+		<controlsDefaultDoctorId />
+		<rph />
+		<noBarcodeScanner>false</noBarcodeScanner>
+		<taxRate>0.0</taxRate>
+		<drugTaxRate>0.0</drugTaxRate>
+		<otcTaxRate>0.0</otcTaxRate>
+		<restrictFormulary>true</restrictFormulary>
+		<homeMessage>Ana Coello#x0D;Account Manager#x0D;A-S Medication Solutions#x0D;Email: ana.coello@asmrx.com #x0D;Office: 888-297-8756 ext. 103#x0D;Direct: (949) 356-6393</homeMessage>
+		<invoiceFreeText />
+		<doBarcodeMask>false</doBarcodeMask>
+		<defaultBarcodeMask />
+		<xoffset>0.1</xoffset>
+		<yoffset>0.0</yoffset>
+		<logoOffset>0.0</logoOffset>
+		<showFields>[firstName][middleName][lastName][address][homePhone][cellPhone][workPhone][dob][gender][heightWeight][externalId][driversLic][groupName][email][dateOfInjury][claimReferenceId][daw][daysSupply][endDate][prn][refillMethod][refillNotification][rxStatus][icd9]</showFields>
+		<requiredFields>[firstName][lastName][dob][gender][externalId][groupName][daysSupply][prn]</requiredFields>
+		<doInvoice>true</doInvoice>
+		<allowDiscounts>false</allowDiscounts>
+		<discountPlans />
+		<patientGroupNames>HS1001,ACS,ACSNHP,COA,COANHP,HARRISONDPC,WARREN,WCHS</patientGroupNames>
+		<defaultPatientGroupName />
+		<ignoreBarcodeCase>true</ignoreBarcodeCase>
+		<disableSupplies>true</disableSupplies>
+		<numLabelsPrint>1</numLabelsPrint>
+		<doAppetiteSuppressantConsent>false</doAppetiteSuppressantConsent>
+		<disableIPSecurity>true</disableIPSecurity>
+		<doWCSaleAdjust>false</doWCSaleAdjust>
+		<doPIPSaleAdjust>false</doPIPSaleAdjust>
+		<doWCAwpOverride>false</doWCAwpOverride>
+		<doPIAwpOverride>false</doPIAwpOverride>
+		<useReferenceNdc>true</useReferenceNdc>
+		<pipIgnoreReferenceNdc>false</pipIgnoreReferenceNdc>
+		<multiContainerPricing>true</multiContainerPricing>
+		<countInventoryShowAnswers>false</countInventoryShowAnswers>
+		<disableInputFieldEditing>true</disableInputFieldEditing>
+		<disableReqFieldForCash>false</disableReqFieldForCash>
+		<emrInterface>true</emrInterface>
+		<hintAPIKey />
+		<disableBillingExport>false</disableBillingExport>
+		<inventoryCountLotExp>true</inventoryCountLotExp>
+		<inventoryReimFiltering>false</inventoryReimFiltering>
+		<lowLevelByNDC>false</lowLevelByNDC>
+		<groupName>WECARE TLC, LLC</groupName>
+		<deaLicense>FH2916774</deaLicense>
+		<nabp>1569788</nabp>
+		<npi />
+		<idahoRegNumber />
+		<doCompounds>false</doCompounds>
+		<doLabs>false</doLabs>
+		<doCoastDiag>false</doCoastDiag>
+		<defaultCompoundExpDays>0</defaultCompoundExpDays>
+		<separateControls>false</separateControls>
+		<separateNonControls>false</separateNonControls>
+		<nuCareExternalId />
+		<bryantRanchExternalId />
+		<medSourceExternalId />
+		<disableDuoMonographs>false</disableDuoMonographs>
+		<autoPatientQueuePurge>false</autoPatientQueuePurge>
+		<purgePatientHours>0</purgePatientHours>
+		<cartRxWrittenDate>true</cartRxWrittenDate>
+		<doNCPDPClaims>false</doNCPDPClaims>
+		<ncpdpLimitPlans>false</ncpdpLimitPlans>
+		<ncpdpRouting>0</ncpdpRouting>
+		<e1DailyLimit>0</e1DailyLimit>
+		<disableE1>false</disableE1>
+		<doInsurance>false</doInsurance>
+		<lastNameFirst>false</lastNameFirst>
+		<contactInfo />
+		<numInsCoverage>2</numInsCoverage>
+		<defaultOriginCode>1</defaultOriginCode>
+		<defaultPlaceOfService />
+		<defaultPatientResidence>01</defaultPatientResidence>
+		<defaultLevelOfService>1</defaultLevelOfService>
+		<defaultPharmacyServiceType>0</defaultPharmacyServiceType>
+		<defaultDispensingFee>0</defaultDispensingFee>
+		<defaultBasisOfCost>0</defaultBasisOfCost>
+		<defaultNCPDPPlanId />
+		<defaultNCPDPGroupId />
+		<defaultWCPlanId />
+		<defaultWCGroupId />
+		<excludeAutoAdjudicate />
+		<defaultCompoundType>0</defaultCompoundType>
+		<defaultRouteOfAdmin />
+		<defaultDosageForm>0</defaultDosageForm>
+		<defaultUnitForm>0</defaultUnitForm>
+		<defaultSubClariCode />
+		<extIdBarcodes>false</extIdBarcodes>
+		<refPatientSiteId />
+		<refFormularySiteId />
+		<shipmentRequestEmail>ana.coello@asmrx.com,lasandra.cobb@wecaretlc.com</shipmentRequestEmail>
+		<logoMini />
+		<faxServerOutEmail />
+		<miscOptions>AUTORXSELECT,COSTPRICEALERT,DISABLEADDPATIENT,EMRMASTERWARNING,ICD10VALIDATION,MULTISITE,NOAUTOICD10S,NOINVENTORYCARTICON,NOPATIENTPAYMENTS,NOPATINVACK,ORDERFORMULARYONLY,REFILLSREMAINING,RX2DISPENSE,RXSTRICT,NOEXPIREDURINGDAYSSUPPLY</miscOptions>
+		<defaultCity>ATTICA</defaultCity>
+		<defaultState>Indiana</defaultState>
+		<defaultZip>479182009</defaultZip>
+		<ssInterface>false</ssInterface>
+		<ssEHR>true</ssEHR>
+		<isDisabled>false</isDisabled>
+		<pdmpReportEmail />
+		<orderViewEmail />
+		<doRxBilling>false</doRxBilling>
+		<rxbAfterDate>0</rxbAfterDate>
+		<doHipaaForm>true</doHipaaForm>
+		<doLienAgreement>false</doLienAgreement>
+		<doAssignmentOfBenefits>false</doAssignmentOfBenefits>
+		<doPatientAgentWaiver>false</doPatientAgentWaiver>
+		<doShipping>false</doShipping>
+		<defaultShipping>0</defaultShipping>
+		<autoRequestOneShot>false</autoRequestOneShot>
+		<disableDefaultValues>false</disableDefaultValues>
+		<disableLastDoctor>true</disableLastDoctor>
+		<disableLastSig>false</disableLastSig>
+		<labTestOptions />
+		<googleXlateDate>0</googleXlateDate>
+		<googleXlateName />
+		<googleXlateUsername />
+		<googleXlateIPAddr />
+		<googleXlateRemoteHost />
+		<doSamples>false</doSamples>
+		<firstDispenseDate>0</firstDispenseDate>
+		<lastDispenseDate>2021-07-15T20:54:02</lastDispenseDate>
+		<limitManuCodes />
+		<rxRequestLimit />
+		<rxRequestExclude />
+		<rxRequestLimitByNDC>true</rxRequestLimitByNDC>
+		<printByUser>false</printByUser>
+		<isPharmacy>false</isPharmacy>
+		<usePhysAsstOnLabel>false</usePhysAsstOnLabel>
+		<rxTransferSites />
+		<doAnalytics>false</doAnalytics>
+		<doAuthorizeNet>false</doAuthorizeNet>
+		<creditCardGatewayUsername />
+		<creditCardGatewayPassword />
+		<doProgressiveExport>false</doProgressiveExport>
+		<lockFormulary>true</lockFormulary>
+		<addShipmentAllOrNone>false</addShipmentAllOrNone>
+		<clientId>8EFSDARUJV</clientId>
+		<clientId2 />
+		<clientId3 />
+		<labelWidth>0.0</labelWidth>
+		<disableDispensingControls>false</disableDispensingControls>
+		<disableLabelPatientAddress>false</disableLabelPatientAddress>
+		<doPods>false</doPods>
+		<faxServerOverride />
+		<voidDays>21</voidDays>
+		<autoShipDays>WE</autoShipDays>
+		<do340B>false</do340B>
+		<disableNCPDPCompounds>false</disableNCPDPCompounds>
+		<doMailOrder>false</doMailOrder>
+		<inHouseAdmin>true</inHouseAdmin>
+		<doExternalOrders>false</doExternalOrders>
+		<doPickups>false</doPickups>
+		<doScriptDrop>false</doScriptDrop>
+		<scriptDropActive>false</scriptDropActive>
+		<apiKey>80ptSsr6froJ6yqhxdFwTe</apiKey>
+		<hipaaEnc>1558088057425|Cindy+Cade|cindy.cade|50.195.128.230|50-195-128-230-static.hfc.comcastbusiness.net</hipaaEnc>
+		<hipaaDate>1558088057425</hipaaDate>
+		<hipaaName>Cindy Cade</hipaaName>
+		<hipaaUsername>cindy.cade</hipaaUsername>
+		<hipaaIPAddr>50.195.128.230</hipaaIPAddr>
+		<hipaaRemoteHost>50-195-128-230-static.hfc.comcastbusiness.net</hipaaRemoteHost>
+		<mdsPSAO>false</mdsPSAO>
+		<exactRxBottleExclude />
+		<doMidLevelProviders>true</doMidLevelProviders>
+		<apprissPMPGatewayUsername />
+		<apprissPMPGatewayPassword />
+		<customExportFields />
+		<hideDOB>false</hideDOB>
+		<noBrandDiscount>false</noBrandDiscount>
+		<isRetailPharmacy>false</isRetailPharmacy>
+		<shipMethods />
+		<enablePatientApp>false</enablePatientApp>
+		<disableAppointments>false</disableAppointments>
+		<disableManualAddInventory>false</disableManualAddInventory>
+		<disableRxRequests>false</disableRxRequests>
+		<eRxFacilities>false</eRxFacilities>
+		<eRxDirect>false</eRxDirect>
+		<assigneeName />
+		<licenseInfoEnc />
+		<licenseInfo />
+	</SiteDescriptor>
+	<Prescriptions>
+		<PrescriptionDescriptor>
+			<id>MZ2J9ZS83C</id>
+			<siteId>WQQSA2JUMH</siteId>
+			<patientId>Y54ZVDK4EJ</patientId>
+			<prescriberId>1YPRJ75VCQ</prescriberId>
+			<midLevelId />
+			<prescriberAgent />
+			<writtenDate>2021-07-08T21:02:24</writtenDate>
+			<renewDate />
+			<voidDate />
+			<transferDate />
+			<printCarryDate />
+			<effectiveDate>0</effectiveDate>
+			<endDate>0</endDate>
+			<isExpired>false</isExpired>
+			<isSample>false</isSample>
+			<gcnseqno>71885</gcnseqno>
+			<compoundParts />
+			<drugName>MUCINEX 600MG TAB</drugName>
+			<strengthDesc>600MG</strengthDesc>
+			<form>TAB</form>
+			<unit>EA</unit>
+			<quantity>20.0</quantity>
+			<schedule>0</schedule>
+			<daw>0</daw>
+			<refills>0</refills>
+			<daysSupply>10</daysSupply>
+			<sig>Take one tablet twice daily as needed for congestion.</sig>
+			<icd9 />
+			<note />
+			<treatmentType>0</treatmentType>
+			<originalRefills>0</originalRefills>
+			<rxNumber>105487</rxNumber>
+			<lastFillDate>20210708</lastFillDate>
+			<refillDate />
+			<refillAsNeeded>false</refillAsNeeded>
+			<originCode>1</originCode>
+			<scheduledRxId />
+			<refLocation />
+			<isCommitted>true</isCommitted>
+			<potencyUnitCode />
+			<supplyParts />
+			<prescriberEnc>i=1YPRJ75VCQ|o=SFBJUTH7V8|p=WQQSA2JUMH|c=1557846153154|f=SHERRI|l=HANSEN-BUNDY|e=dr.bundy@wecaretlc.com|t=MD|de=FH2916774|dl=01054406A|ds=Indiana|np=1831105741|a=101 SUZIE LN|ca=Attica|s=Indiana|z=479182009|ph=7657626789|fa=7657626766|emr=DRBUNDY|spi=6671018375|lzd=1626019200000|lsh=1624990633918|ldd=1626123400150|dx=20231031|txs=207P00000X|sst=Registered|epcs=T|ssr=T</prescriberEnc>
+			<midLevelEnc />
+			<prescriber>
+				<id>1YPRJ75VCQ</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<primarySiteId>WQQSA2JUMH</primarySiteId>
+				<virtualSiteId />
+				<createdDate>2019-05-14T15:02:33</createdDate>
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName>SHERRI</firstName>
+				<middleName />
+				<lastName>HANSEN-BUNDY</lastName>
+				<email>dr.bundy@wecaretlc.com</email>
+				<title>MD</title>
+				<taxonomies>207P00000X</taxonomies>
+				<deaLicense>FH2916774</deaLicense>
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense>01054406A</doctorLicense>
+				<doctorLicenseState>Indiana</doctorLicenseState>
+				<taxId />
+				<npi>1831105741</npi>
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address>101 SUZIE LN</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<imagePath />
+				<emrId>DRBUNDY</emrId>
+				<spiRoot>6671018375</spiRoot>
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate>2021-07-11T16:00:00</lastZeroReportDate>
+				<lastSchDispenseDate>2021-06-29T18:17:13</lastSchDispenseDate>
+				<lastDispenseDate>2021-07-12T20:56:40</lastDispenseDate>
+				<deaExpDate>20231031</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus>Registered</surescriptsRequestStatus>
+				<surescriptsRequestEPCS>true</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>true</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</prescriber>
+			<midLevel>
+				<id />
+				<organizationId />
+				<primarySiteId />
+				<virtualSiteId />
+				<createdDate />
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName />
+				<middleName />
+				<lastName />
+				<email />
+				<title />
+				<taxonomies />
+				<deaLicense />
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense />
+				<doctorLicenseState />
+				<taxId />
+				<npi />
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address />
+				<address2 />
+				<city />
+				<state />
+				<zip />
+				<countryCode />
+				<phone />
+				<fax />
+				<imagePath />
+				<emrId />
+				<spiRoot />
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate />
+				<lastSchDispenseDate />
+				<lastDispenseDate />
+				<deaExpDate>0</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus />
+				<surescriptsRequestEPCS>false</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>false</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</midLevel>
+			<site>
+				<cacheTime>0</cacheTime>
+				<id>WQQSA2JUMH</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<siteNumber>68606</siteNumber>
+				<referenceSiteId>13306-014</referenceSiteId>
+				<locationGUID />
+				<createdDate>2019-03-28T14:22:24</createdDate>
+				<trainingCompleteDate>0</trainingCompleteDate>
+				<liveDate>1553782944692</liveDate>
+				<isDemo>false</isDemo>
+				<isDeleted>false</isDeleted>
+				<isArchived>false</isArchived>
+				<notes />
+				<siteType>Employer Health</siteType>
+				<doCash>true</doCash>
+				<doWC>true</doWC>
+				<doPI>false</doPI>
+				<doPIP>false</doPIP>
+				<defaultBillingType>0</defaultBillingType>
+				<doBulk>true</doBulk>
+				<doDME>false</doDME>
+				<legalName>Harrison Steel Employee Clinic</legalName>
+				<name>Harrison Steel Employee Clinic</name>
+				<address>101 Suzie Ln</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<latitude>40.2888942</latitude>
+				<longitude>-87.2415022</longitude>
+				<contractPercent>0.0</contractPercent>
+				<piContractPercent>0.0</piContractPercent>
+				<pharmacyLabel>Pharmex F</pharmacyLabel>
+				<doDrugImprints>false</doDrugImprints>
+				<currentRxNumber>105528</currentRxNumber>
+				<currentSampleNumber>900000</currentSampleNumber>
+				<durOption>1</durOption>
+				<durDupTherapy>true</durDupTherapy>
+				<durCurrentRxOnly>false</durCurrentRxOnly>
+				<safetyCheckOption>0</safetyCheckOption>
+				<newRxNameOption>0</newRxNameOption>
+				<autoDeleteDepleted>true</autoDeleteDepleted>
+				<doProducts>true</doProducts>
+				<doServices>false</doServices>
+				<sigSelect>false</sigSelect>
+				<doRefills>true</doRefills>
+				<selectAndScan>false</selectAndScan>
+				<controlsDefaultDoctorId />
+				<rph />
+				<noBarcodeScanner>false</noBarcodeScanner>
+				<taxRate>0.0</taxRate>
+				<drugTaxRate>0.0</drugTaxRate>
+				<otcTaxRate>0.0</otcTaxRate>
+				<restrictFormulary>true</restrictFormulary>
+				<homeMessage>Ana Coello#x0D;Account Manager#x0D;A-S Medication Solutions#x0D;Email: ana.coello@asmrx.com #x0D;Office: 888-297-8756 ext. 103#x0D;Direct: (949) 356-6393</homeMessage>
+				<invoiceFreeText />
+				<doBarcodeMask>false</doBarcodeMask>
+				<defaultBarcodeMask />
+				<xoffset>0.1</xoffset>
+				<yoffset>0.0</yoffset>
+				<logoOffset>0.0</logoOffset>
+				<showFields>[firstName][middleName][lastName][address][homePhone][cellPhone][workPhone][dob][gender][heightWeight][externalId][driversLic][groupName][email][dateOfInjury][claimReferenceId][daw][daysSupply][endDate][prn][refillMethod][refillNotification][rxStatus][icd9]</showFields>
+				<requiredFields>[firstName][lastName][dob][gender][externalId][groupName][daysSupply][prn]</requiredFields>
+				<doInvoice>true</doInvoice>
+				<allowDiscounts>false</allowDiscounts>
+				<discountPlans />
+				<patientGroupNames>HS1001,ACS,ACSNHP,COA,COANHP,HARRISONDPC,WARREN,WCHS</patientGroupNames>
+				<defaultPatientGroupName />
+				<ignoreBarcodeCase>true</ignoreBarcodeCase>
+				<disableSupplies>true</disableSupplies>
+				<numLabelsPrint>1</numLabelsPrint>
+				<doAppetiteSuppressantConsent>false</doAppetiteSuppressantConsent>
+				<disableIPSecurity>true</disableIPSecurity>
+				<doWCSaleAdjust>false</doWCSaleAdjust>
+				<doPIPSaleAdjust>false</doPIPSaleAdjust>
+				<doWCAwpOverride>false</doWCAwpOverride>
+				<doPIAwpOverride>false</doPIAwpOverride>
+				<useReferenceNdc>true</useReferenceNdc>
+				<pipIgnoreReferenceNdc>false</pipIgnoreReferenceNdc>
+				<multiContainerPricing>true</multiContainerPricing>
+				<countInventoryShowAnswers>false</countInventoryShowAnswers>
+				<disableInputFieldEditing>true</disableInputFieldEditing>
+				<disableReqFieldForCash>false</disableReqFieldForCash>
+				<emrInterface>true</emrInterface>
+				<hintAPIKey />
+				<disableBillingExport>false</disableBillingExport>
+				<inventoryCountLotExp>true</inventoryCountLotExp>
+				<inventoryReimFiltering>false</inventoryReimFiltering>
+				<lowLevelByNDC>false</lowLevelByNDC>
+				<groupName>WECARE TLC, LLC</groupName>
+				<deaLicense>FH2916774</deaLicense>
+				<nabp>1569788</nabp>
+				<npi />
+				<idahoRegNumber />
+				<doCompounds>false</doCompounds>
+				<doLabs>false</doLabs>
+				<doCoastDiag>false</doCoastDiag>
+				<defaultCompoundExpDays>0</defaultCompoundExpDays>
+				<separateControls>false</separateControls>
+				<separateNonControls>false</separateNonControls>
+				<nuCareExternalId />
+				<bryantRanchExternalId />
+				<medSourceExternalId />
+				<disableDuoMonographs>false</disableDuoMonographs>
+				<autoPatientQueuePurge>false</autoPatientQueuePurge>
+				<purgePatientHours>0</purgePatientHours>
+				<cartRxWrittenDate>true</cartRxWrittenDate>
+				<doNCPDPClaims>false</doNCPDPClaims>
+				<ncpdpLimitPlans>false</ncpdpLimitPlans>
+				<ncpdpRouting>0</ncpdpRouting>
+				<e1DailyLimit>0</e1DailyLimit>
+				<disableE1>false</disableE1>
+				<doInsurance>false</doInsurance>
+				<lastNameFirst>false</lastNameFirst>
+				<contactInfo />
+				<numInsCoverage>2</numInsCoverage>
+				<defaultOriginCode>1</defaultOriginCode>
+				<defaultPlaceOfService />
+				<defaultPatientResidence>01</defaultPatientResidence>
+				<defaultLevelOfService>1</defaultLevelOfService>
+				<defaultPharmacyServiceType>0</defaultPharmacyServiceType>
+				<defaultDispensingFee>0</defaultDispensingFee>
+				<defaultBasisOfCost>0</defaultBasisOfCost>
+				<defaultNCPDPPlanId />
+				<defaultNCPDPGroupId />
+				<defaultWCPlanId />
+				<defaultWCGroupId />
+				<excludeAutoAdjudicate />
+				<defaultCompoundType>0</defaultCompoundType>
+				<defaultRouteOfAdmin />
+				<defaultDosageForm>0</defaultDosageForm>
+				<defaultUnitForm>0</defaultUnitForm>
+				<defaultSubClariCode />
+				<extIdBarcodes>false</extIdBarcodes>
+				<refPatientSiteId />
+				<refFormularySiteId />
+				<shipmentRequestEmail>ana.coello@asmrx.com,lasandra.cobb@wecaretlc.com</shipmentRequestEmail>
+				<logoMini />
+				<faxServerOutEmail />
+				<miscOptions>AUTORXSELECT,COSTPRICEALERT,DISABLEADDPATIENT,EMRMASTERWARNING,ICD10VALIDATION,MULTISITE,NOAUTOICD10S,NOINVENTORYCARTICON,NOPATIENTPAYMENTS,NOPATINVACK,ORDERFORMULARYONLY,REFILLSREMAINING,RX2DISPENSE,RXSTRICT,NOEXPIREDURINGDAYSSUPPLY</miscOptions>
+				<defaultCity>ATTICA</defaultCity>
+				<defaultState>Indiana</defaultState>
+				<defaultZip>479182009</defaultZip>
+				<ssInterface>false</ssInterface>
+				<ssEHR>true</ssEHR>
+				<isDisabled>false</isDisabled>
+				<pdmpReportEmail />
+				<orderViewEmail />
+				<doRxBilling>false</doRxBilling>
+				<rxbAfterDate>0</rxbAfterDate>
+				<doHipaaForm>true</doHipaaForm>
+				<doLienAgreement>false</doLienAgreement>
+				<doAssignmentOfBenefits>false</doAssignmentOfBenefits>
+				<doPatientAgentWaiver>false</doPatientAgentWaiver>
+				<doShipping>false</doShipping>
+				<defaultShipping>0</defaultShipping>
+				<autoRequestOneShot>false</autoRequestOneShot>
+				<disableDefaultValues>false</disableDefaultValues>
+				<disableLastDoctor>true</disableLastDoctor>
+				<disableLastSig>false</disableLastSig>
+				<labTestOptions />
+				<googleXlateDate>0</googleXlateDate>
+				<googleXlateName />
+				<googleXlateUsername />
+				<googleXlateIPAddr />
+				<googleXlateRemoteHost />
+				<doSamples>false</doSamples>
+				<firstDispenseDate>0</firstDispenseDate>
+				<lastDispenseDate>2021-07-15T20:54:02</lastDispenseDate>
+				<limitManuCodes />
+				<rxRequestLimit />
+				<rxRequestExclude />
+				<rxRequestLimitByNDC>true</rxRequestLimitByNDC>
+				<printByUser>false</printByUser>
+				<isPharmacy>false</isPharmacy>
+				<usePhysAsstOnLabel>false</usePhysAsstOnLabel>
+				<rxTransferSites />
+				<doAnalytics>false</doAnalytics>
+				<doAuthorizeNet>false</doAuthorizeNet>
+				<creditCardGatewayUsername />
+				<creditCardGatewayPassword />
+				<doProgressiveExport>false</doProgressiveExport>
+				<lockFormulary>true</lockFormulary>
+				<addShipmentAllOrNone>false</addShipmentAllOrNone>
+				<clientId>8EFSDARUJV</clientId>
+				<clientId2 />
+				<clientId3 />
+				<labelWidth>0.0</labelWidth>
+				<disableDispensingControls>false</disableDispensingControls>
+				<disableLabelPatientAddress>false</disableLabelPatientAddress>
+				<doPods>false</doPods>
+				<faxServerOverride />
+				<voidDays>21</voidDays>
+				<autoShipDays>WE</autoShipDays>
+				<do340B>false</do340B>
+				<disableNCPDPCompounds>false</disableNCPDPCompounds>
+				<doMailOrder>false</doMailOrder>
+				<inHouseAdmin>true</inHouseAdmin>
+				<doExternalOrders>false</doExternalOrders>
+				<doPickups>false</doPickups>
+				<doScriptDrop>false</doScriptDrop>
+				<scriptDropActive>false</scriptDropActive>
+				<apiKey>80ptSsr6froJ6yqhxdFwTe</apiKey>
+				<hipaaEnc>1558088057425|Cindy+Cade|cindy.cade|50.195.128.230|50-195-128-230-static.hfc.comcastbusiness.net</hipaaEnc>
+				<hipaaDate>1558088057425</hipaaDate>
+				<hipaaName>Cindy Cade</hipaaName>
+				<hipaaUsername>cindy.cade</hipaaUsername>
+				<hipaaIPAddr>50.195.128.230</hipaaIPAddr>
+				<hipaaRemoteHost>50-195-128-230-static.hfc.comcastbusiness.net</hipaaRemoteHost>
+				<mdsPSAO>false</mdsPSAO>
+				<exactRxBottleExclude />
+				<doMidLevelProviders>true</doMidLevelProviders>
+				<apprissPMPGatewayUsername />
+				<apprissPMPGatewayPassword />
+				<customExportFields />
+				<hideDOB>false</hideDOB>
+				<noBrandDiscount>false</noBrandDiscount>
+				<isRetailPharmacy>false</isRetailPharmacy>
+				<shipMethods />
+				<enablePatientApp>false</enablePatientApp>
+				<disableAppointments>false</disableAppointments>
+				<disableManualAddInventory>false</disableManualAddInventory>
+				<disableRxRequests>false</disableRxRequests>
+				<eRxFacilities>false</eRxFacilities>
+				<eRxDirect>false</eRxDirect>
+				<assigneeName />
+				<licenseInfoEnc />
+				<licenseInfo />
+			</site>
+			<refName />
+			<refAddress />
+			<refAddress2 />
+			<refCity />
+			<refState />
+			<refZip />
+			<refPhone />
+			<refFax />
+			<refSiteId />
+			<refNPI />
+			<facilityId />
+			<facilityName />
+			<facilityAddress />
+			<facilityAddress2 />
+			<facilityCity />
+			<facilityState />
+			<facilityZip />
+			<facilityPhone />
+			<facilityEnc />
+			<inHouse>false</inHouse>
+			<encounterId />
+		</PrescriptionDescriptor>
+		<PrescriptionDescriptor>
+			<id>2Q9JWU7WB1</id>
+			<siteId>WQQSA2JUMH</siteId>
+			<patientId>Y54ZVDK4EJ</patientId>
+			<prescriberId>1YPRJ75VCQ</prescriberId>
+			<midLevelId />
+			<prescriberAgent />
+			<writtenDate>2019-11-27T17:00:00</writtenDate>
+			<renewDate />
+			<voidDate />
+			<transferDate />
+			<printCarryDate />
+			<effectiveDate>0</effectiveDate>
+			<endDate>0</endDate>
+			<isExpired>true</isExpired>
+			<isSample>false</isSample>
+			<gcnseqno>17037</gcnseqno>
+			<compoundParts />
+			<drugName>CETIRIZINE 10MG TAB</drugName>
+			<strengthDesc>10MG</strengthDesc>
+			<form>TAB</form>
+			<unit>EA</unit>
+			<quantity>90.0</quantity>
+			<schedule>0</schedule>
+			<daw>0</daw>
+			<refills>3</refills>
+			<daysSupply>90</daysSupply>
+			<sig>Take one tablet once daily</sig>
+			<icd9 />
+			<note />
+			<treatmentType>0</treatmentType>
+			<originalRefills>3</originalRefills>
+			<rxNumber>0</rxNumber>
+			<lastFillDate>0</lastFillDate>
+			<refillDate />
+			<refillAsNeeded>false</refillAsNeeded>
+			<originCode>1</originCode>
+			<scheduledRxId />
+			<refLocation />
+			<isCommitted>true</isCommitted>
+			<potencyUnitCode />
+			<supplyParts />
+			<prescriberEnc>i=1YPRJ75VCQ|o=SFBJUTH7V8|p=WQQSA2JUMH|c=1557846153154|f=SHERRI|l=HANSEN-BUNDY|e=dr.bundy@wecaretlc.com|t=MD|de=FH2916774|dl=01054406A|ds=Indiana|np=1831105741|a=101 SUZIE LN|ca=Attica|s=Indiana|z=479182009|ph=7657626789|fa=7657626766|emr=DRBUNDY|spi=6671018375|lzd=1626019200000|lsh=1624990633918|ldd=1626123400150|dx=20231031|txs=207P00000X|sst=Registered|epcs=T|ssr=T</prescriberEnc>
+			<midLevelEnc />
+			<prescriber>
+				<id>1YPRJ75VCQ</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<primarySiteId>WQQSA2JUMH</primarySiteId>
+				<virtualSiteId />
+				<createdDate>2019-05-14T15:02:33</createdDate>
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName>SHERRI</firstName>
+				<middleName />
+				<lastName>HANSEN-BUNDY</lastName>
+				<email>dr.bundy@wecaretlc.com</email>
+				<title>MD</title>
+				<taxonomies>207P00000X</taxonomies>
+				<deaLicense>FH2916774</deaLicense>
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense>01054406A</doctorLicense>
+				<doctorLicenseState>Indiana</doctorLicenseState>
+				<taxId />
+				<npi>1831105741</npi>
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address>101 SUZIE LN</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<imagePath />
+				<emrId>DRBUNDY</emrId>
+				<spiRoot>6671018375</spiRoot>
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate>2021-07-11T16:00:00</lastZeroReportDate>
+				<lastSchDispenseDate>2021-06-29T18:17:13</lastSchDispenseDate>
+				<lastDispenseDate>2021-07-12T20:56:40</lastDispenseDate>
+				<deaExpDate>20231031</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus>Registered</surescriptsRequestStatus>
+				<surescriptsRequestEPCS>true</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>true</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</prescriber>
+			<midLevel>
+				<id />
+				<organizationId />
+				<primarySiteId />
+				<virtualSiteId />
+				<createdDate />
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName />
+				<middleName />
+				<lastName />
+				<email />
+				<title />
+				<taxonomies />
+				<deaLicense />
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense />
+				<doctorLicenseState />
+				<taxId />
+				<npi />
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address />
+				<address2 />
+				<city />
+				<state />
+				<zip />
+				<countryCode />
+				<phone />
+				<fax />
+				<imagePath />
+				<emrId />
+				<spiRoot />
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate />
+				<lastSchDispenseDate />
+				<lastDispenseDate />
+				<deaExpDate>0</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus />
+				<surescriptsRequestEPCS>false</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>false</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</midLevel>
+			<site>
+				<cacheTime>0</cacheTime>
+				<id>WQQSA2JUMH</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<siteNumber>68606</siteNumber>
+				<referenceSiteId>13306-014</referenceSiteId>
+				<locationGUID />
+				<createdDate>2019-03-28T14:22:24</createdDate>
+				<trainingCompleteDate>0</trainingCompleteDate>
+				<liveDate>1553782944692</liveDate>
+				<isDemo>false</isDemo>
+				<isDeleted>false</isDeleted>
+				<isArchived>false</isArchived>
+				<notes />
+				<siteType>Employer Health</siteType>
+				<doCash>true</doCash>
+				<doWC>true</doWC>
+				<doPI>false</doPI>
+				<doPIP>false</doPIP>
+				<defaultBillingType>0</defaultBillingType>
+				<doBulk>true</doBulk>
+				<doDME>false</doDME>
+				<legalName>Harrison Steel Employee Clinic</legalName>
+				<name>Harrison Steel Employee Clinic</name>
+				<address>101 Suzie Ln</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<latitude>40.2888942</latitude>
+				<longitude>-87.2415022</longitude>
+				<contractPercent>0.0</contractPercent>
+				<piContractPercent>0.0</piContractPercent>
+				<pharmacyLabel>Pharmex F</pharmacyLabel>
+				<doDrugImprints>false</doDrugImprints>
+				<currentRxNumber>105528</currentRxNumber>
+				<currentSampleNumber>900000</currentSampleNumber>
+				<durOption>1</durOption>
+				<durDupTherapy>true</durDupTherapy>
+				<durCurrentRxOnly>false</durCurrentRxOnly>
+				<safetyCheckOption>0</safetyCheckOption>
+				<newRxNameOption>0</newRxNameOption>
+				<autoDeleteDepleted>true</autoDeleteDepleted>
+				<doProducts>true</doProducts>
+				<doServices>false</doServices>
+				<sigSelect>false</sigSelect>
+				<doRefills>true</doRefills>
+				<selectAndScan>false</selectAndScan>
+				<controlsDefaultDoctorId />
+				<rph />
+				<noBarcodeScanner>false</noBarcodeScanner>
+				<taxRate>0.0</taxRate>
+				<drugTaxRate>0.0</drugTaxRate>
+				<otcTaxRate>0.0</otcTaxRate>
+				<restrictFormulary>true</restrictFormulary>
+				<homeMessage>Ana Coello#x0D;Account Manager#x0D;A-S Medication Solutions#x0D;Email: ana.coello@asmrx.com #x0D;Office: 888-297-8756 ext. 103#x0D;Direct: (949) 356-6393</homeMessage>
+				<invoiceFreeText />
+				<doBarcodeMask>false</doBarcodeMask>
+				<defaultBarcodeMask />
+				<xoffset>0.1</xoffset>
+				<yoffset>0.0</yoffset>
+				<logoOffset>0.0</logoOffset>
+				<showFields>[firstName][middleName][lastName][address][homePhone][cellPhone][workPhone][dob][gender][heightWeight][externalId][driversLic][groupName][email][dateOfInjury][claimReferenceId][daw][daysSupply][endDate][prn][refillMethod][refillNotification][rxStatus][icd9]</showFields>
+				<requiredFields>[firstName][lastName][dob][gender][externalId][groupName][daysSupply][prn]</requiredFields>
+				<doInvoice>true</doInvoice>
+				<allowDiscounts>false</allowDiscounts>
+				<discountPlans />
+				<patientGroupNames>HS1001,ACS,ACSNHP,COA,COANHP,HARRISONDPC,WARREN,WCHS</patientGroupNames>
+				<defaultPatientGroupName />
+				<ignoreBarcodeCase>true</ignoreBarcodeCase>
+				<disableSupplies>true</disableSupplies>
+				<numLabelsPrint>1</numLabelsPrint>
+				<doAppetiteSuppressantConsent>false</doAppetiteSuppressantConsent>
+				<disableIPSecurity>true</disableIPSecurity>
+				<doWCSaleAdjust>false</doWCSaleAdjust>
+				<doPIPSaleAdjust>false</doPIPSaleAdjust>
+				<doWCAwpOverride>false</doWCAwpOverride>
+				<doPIAwpOverride>false</doPIAwpOverride>
+				<useReferenceNdc>true</useReferenceNdc>
+				<pipIgnoreReferenceNdc>false</pipIgnoreReferenceNdc>
+				<multiContainerPricing>true</multiContainerPricing>
+				<countInventoryShowAnswers>false</countInventoryShowAnswers>
+				<disableInputFieldEditing>true</disableInputFieldEditing>
+				<disableReqFieldForCash>false</disableReqFieldForCash>
+				<emrInterface>true</emrInterface>
+				<hintAPIKey />
+				<disableBillingExport>false</disableBillingExport>
+				<inventoryCountLotExp>true</inventoryCountLotExp>
+				<inventoryReimFiltering>false</inventoryReimFiltering>
+				<lowLevelByNDC>false</lowLevelByNDC>
+				<groupName>WECARE TLC, LLC</groupName>
+				<deaLicense>FH2916774</deaLicense>
+				<nabp>1569788</nabp>
+				<npi />
+				<idahoRegNumber />
+				<doCompounds>false</doCompounds>
+				<doLabs>false</doLabs>
+				<doCoastDiag>false</doCoastDiag>
+				<defaultCompoundExpDays>0</defaultCompoundExpDays>
+				<separateControls>false</separateControls>
+				<separateNonControls>false</separateNonControls>
+				<nuCareExternalId />
+				<bryantRanchExternalId />
+				<medSourceExternalId />
+				<disableDuoMonographs>false</disableDuoMonographs>
+				<autoPatientQueuePurge>false</autoPatientQueuePurge>
+				<purgePatientHours>0</purgePatientHours>
+				<cartRxWrittenDate>true</cartRxWrittenDate>
+				<doNCPDPClaims>false</doNCPDPClaims>
+				<ncpdpLimitPlans>false</ncpdpLimitPlans>
+				<ncpdpRouting>0</ncpdpRouting>
+				<e1DailyLimit>0</e1DailyLimit>
+				<disableE1>false</disableE1>
+				<doInsurance>false</doInsurance>
+				<lastNameFirst>false</lastNameFirst>
+				<contactInfo />
+				<numInsCoverage>2</numInsCoverage>
+				<defaultOriginCode>1</defaultOriginCode>
+				<defaultPlaceOfService />
+				<defaultPatientResidence>01</defaultPatientResidence>
+				<defaultLevelOfService>1</defaultLevelOfService>
+				<defaultPharmacyServiceType>0</defaultPharmacyServiceType>
+				<defaultDispensingFee>0</defaultDispensingFee>
+				<defaultBasisOfCost>0</defaultBasisOfCost>
+				<defaultNCPDPPlanId />
+				<defaultNCPDPGroupId />
+				<defaultWCPlanId />
+				<defaultWCGroupId />
+				<excludeAutoAdjudicate />
+				<defaultCompoundType>0</defaultCompoundType>
+				<defaultRouteOfAdmin />
+				<defaultDosageForm>0</defaultDosageForm>
+				<defaultUnitForm>0</defaultUnitForm>
+				<defaultSubClariCode />
+				<extIdBarcodes>false</extIdBarcodes>
+				<refPatientSiteId />
+				<refFormularySiteId />
+				<shipmentRequestEmail>ana.coello@asmrx.com,lasandra.cobb@wecaretlc.com</shipmentRequestEmail>
+				<logoMini />
+				<faxServerOutEmail />
+				<miscOptions>AUTORXSELECT,COSTPRICEALERT,DISABLEADDPATIENT,EMRMASTERWARNING,ICD10VALIDATION,MULTISITE,NOAUTOICD10S,NOINVENTORYCARTICON,NOPATIENTPAYMENTS,NOPATINVACK,ORDERFORMULARYONLY,REFILLSREMAINING,RX2DISPENSE,RXSTRICT,NOEXPIREDURINGDAYSSUPPLY</miscOptions>
+				<defaultCity>ATTICA</defaultCity>
+				<defaultState>Indiana</defaultState>
+				<defaultZip>479182009</defaultZip>
+				<ssInterface>false</ssInterface>
+				<ssEHR>true</ssEHR>
+				<isDisabled>false</isDisabled>
+				<pdmpReportEmail />
+				<orderViewEmail />
+				<doRxBilling>false</doRxBilling>
+				<rxbAfterDate>0</rxbAfterDate>
+				<doHipaaForm>true</doHipaaForm>
+				<doLienAgreement>false</doLienAgreement>
+				<doAssignmentOfBenefits>false</doAssignmentOfBenefits>
+				<doPatientAgentWaiver>false</doPatientAgentWaiver>
+				<doShipping>false</doShipping>
+				<defaultShipping>0</defaultShipping>
+				<autoRequestOneShot>false</autoRequestOneShot>
+				<disableDefaultValues>false</disableDefaultValues>
+				<disableLastDoctor>true</disableLastDoctor>
+				<disableLastSig>false</disableLastSig>
+				<labTestOptions />
+				<googleXlateDate>0</googleXlateDate>
+				<googleXlateName />
+				<googleXlateUsername />
+				<googleXlateIPAddr />
+				<googleXlateRemoteHost />
+				<doSamples>false</doSamples>
+				<firstDispenseDate>0</firstDispenseDate>
+				<lastDispenseDate>2021-07-15T20:54:02</lastDispenseDate>
+				<limitManuCodes />
+				<rxRequestLimit />
+				<rxRequestExclude />
+				<rxRequestLimitByNDC>true</rxRequestLimitByNDC>
+				<printByUser>false</printByUser>
+				<isPharmacy>false</isPharmacy>
+				<usePhysAsstOnLabel>false</usePhysAsstOnLabel>
+				<rxTransferSites />
+				<doAnalytics>false</doAnalytics>
+				<doAuthorizeNet>false</doAuthorizeNet>
+				<creditCardGatewayUsername />
+				<creditCardGatewayPassword />
+				<doProgressiveExport>false</doProgressiveExport>
+				<lockFormulary>true</lockFormulary>
+				<addShipmentAllOrNone>false</addShipmentAllOrNone>
+				<clientId>8EFSDARUJV</clientId>
+				<clientId2 />
+				<clientId3 />
+				<labelWidth>0.0</labelWidth>
+				<disableDispensingControls>false</disableDispensingControls>
+				<disableLabelPatientAddress>false</disableLabelPatientAddress>
+				<doPods>false</doPods>
+				<faxServerOverride />
+				<voidDays>21</voidDays>
+				<autoShipDays>WE</autoShipDays>
+				<do340B>false</do340B>
+				<disableNCPDPCompounds>false</disableNCPDPCompounds>
+				<doMailOrder>false</doMailOrder>
+				<inHouseAdmin>true</inHouseAdmin>
+				<doExternalOrders>false</doExternalOrders>
+				<doPickups>false</doPickups>
+				<doScriptDrop>false</doScriptDrop>
+				<scriptDropActive>false</scriptDropActive>
+				<apiKey>80ptSsr6froJ6yqhxdFwTe</apiKey>
+				<hipaaEnc>1558088057425|Cindy+Cade|cindy.cade|50.195.128.230|50-195-128-230-static.hfc.comcastbusiness.net</hipaaEnc>
+				<hipaaDate>1558088057425</hipaaDate>
+				<hipaaName>Cindy Cade</hipaaName>
+				<hipaaUsername>cindy.cade</hipaaUsername>
+				<hipaaIPAddr>50.195.128.230</hipaaIPAddr>
+				<hipaaRemoteHost>50-195-128-230-static.hfc.comcastbusiness.net</hipaaRemoteHost>
+				<mdsPSAO>false</mdsPSAO>
+				<exactRxBottleExclude />
+				<doMidLevelProviders>true</doMidLevelProviders>
+				<apprissPMPGatewayUsername />
+				<apprissPMPGatewayPassword />
+				<customExportFields />
+				<hideDOB>false</hideDOB>
+				<noBrandDiscount>false</noBrandDiscount>
+				<isRetailPharmacy>false</isRetailPharmacy>
+				<shipMethods />
+				<enablePatientApp>false</enablePatientApp>
+				<disableAppointments>false</disableAppointments>
+				<disableManualAddInventory>false</disableManualAddInventory>
+				<disableRxRequests>false</disableRxRequests>
+				<eRxFacilities>false</eRxFacilities>
+				<eRxDirect>false</eRxDirect>
+				<assigneeName />
+				<licenseInfoEnc />
+				<licenseInfo />
+			</site>
+			<refName />
+			<refAddress />
+			<refAddress2 />
+			<refCity />
+			<refState />
+			<refZip />
+			<refPhone />
+			<refFax />
+			<refSiteId />
+			<refNPI />
+			<facilityId />
+			<facilityName />
+			<facilityAddress />
+			<facilityAddress2 />
+			<facilityCity />
+			<facilityState />
+			<facilityZip />
+			<facilityPhone />
+			<facilityEnc />
+			<inHouse>false</inHouse>
+			<encounterId />
+		</PrescriptionDescriptor>
+		<PrescriptionDescriptor>
+			<id>1WKQZNL5UY</id>
+			<siteId>WQQSA2JUMH</siteId>
+			<patientId>Y54ZVDK4EJ</patientId>
+			<prescriberId>1YPRJ75VCQ</prescriberId>
+			<midLevelId />
+			<prescriberAgent />
+			<writtenDate>2019-11-19T21:51:28</writtenDate>
+			<renewDate />
+			<voidDate />
+			<transferDate />
+			<printCarryDate />
+			<effectiveDate>0</effectiveDate>
+			<endDate>0</endDate>
+			<isExpired>true</isExpired>
+			<isSample>false</isSample>
+			<gcnseqno>28090</gcnseqno>
+			<compoundParts />
+			<drugName>VENTOLIN HFA 90MCG HFA GM</drugName>
+			<strengthDesc>90MCG</strengthDesc>
+			<form>HFA</form>
+			<unit>GM</unit>
+			<quantity>18.0</quantity>
+			<schedule>0</schedule>
+			<daw>0</daw>
+			<refills>11</refills>
+			<daysSupply>30</daysSupply>
+			<sig>Take 2 puffs every 4hours as needed for wheezing</sig>
+			<icd9 />
+			<note />
+			<treatmentType>0</treatmentType>
+			<originalRefills>11</originalRefills>
+			<rxNumber>101701</rxNumber>
+			<lastFillDate>20191119</lastFillDate>
+			<refillDate />
+			<refillAsNeeded>false</refillAsNeeded>
+			<originCode>1</originCode>
+			<scheduledRxId />
+			<refLocation />
+			<isCommitted>true</isCommitted>
+			<potencyUnitCode />
+			<supplyParts />
+			<prescriberEnc>i=1YPRJ75VCQ|o=SFBJUTH7V8|p=WQQSA2JUMH|c=1557846153154|f=SHERRI|l=HANSEN-BUNDY|e=dr.bundy@wecaretlc.com|t=MD|de=FH2916774|dl=01054406A|ds=Indiana|np=1831105741|a=101 SUZIE LN|ca=Attica|s=Indiana|z=479182009|ph=7657626789|fa=7657626766|emr=DRBUNDY|spi=6671018375|lzd=1626019200000|lsh=1624990633918|ldd=1626123400150|dx=20231031|txs=207P00000X|sst=Registered|epcs=T|ssr=T</prescriberEnc>
+			<midLevelEnc />
+			<prescriber>
+				<id>1YPRJ75VCQ</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<primarySiteId>WQQSA2JUMH</primarySiteId>
+				<virtualSiteId />
+				<createdDate>2019-05-14T15:02:33</createdDate>
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName>SHERRI</firstName>
+				<middleName />
+				<lastName>HANSEN-BUNDY</lastName>
+				<email>dr.bundy@wecaretlc.com</email>
+				<title>MD</title>
+				<taxonomies>207P00000X</taxonomies>
+				<deaLicense>FH2916774</deaLicense>
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense>01054406A</doctorLicense>
+				<doctorLicenseState>Indiana</doctorLicenseState>
+				<taxId />
+				<npi>1831105741</npi>
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address>101 SUZIE LN</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<imagePath />
+				<emrId>DRBUNDY</emrId>
+				<spiRoot>6671018375</spiRoot>
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate>2021-07-11T16:00:00</lastZeroReportDate>
+				<lastSchDispenseDate>2021-06-29T18:17:13</lastSchDispenseDate>
+				<lastDispenseDate>2021-07-12T20:56:40</lastDispenseDate>
+				<deaExpDate>20231031</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus>Registered</surescriptsRequestStatus>
+				<surescriptsRequestEPCS>true</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>true</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</prescriber>
+			<midLevel>
+				<id />
+				<organizationId />
+				<primarySiteId />
+				<virtualSiteId />
+				<createdDate />
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName />
+				<middleName />
+				<lastName />
+				<email />
+				<title />
+				<taxonomies />
+				<deaLicense />
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense />
+				<doctorLicenseState />
+				<taxId />
+				<npi />
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address />
+				<address2 />
+				<city />
+				<state />
+				<zip />
+				<countryCode />
+				<phone />
+				<fax />
+				<imagePath />
+				<emrId />
+				<spiRoot />
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate />
+				<lastSchDispenseDate />
+				<lastDispenseDate />
+				<deaExpDate>0</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus />
+				<surescriptsRequestEPCS>false</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>false</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</midLevel>
+			<site>
+				<cacheTime>0</cacheTime>
+				<id>WQQSA2JUMH</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<siteNumber>68606</siteNumber>
+				<referenceSiteId>13306-014</referenceSiteId>
+				<locationGUID />
+				<createdDate>2019-03-28T14:22:24</createdDate>
+				<trainingCompleteDate>0</trainingCompleteDate>
+				<liveDate>1553782944692</liveDate>
+				<isDemo>false</isDemo>
+				<isDeleted>false</isDeleted>
+				<isArchived>false</isArchived>
+				<notes />
+				<siteType>Employer Health</siteType>
+				<doCash>true</doCash>
+				<doWC>true</doWC>
+				<doPI>false</doPI>
+				<doPIP>false</doPIP>
+				<defaultBillingType>0</defaultBillingType>
+				<doBulk>true</doBulk>
+				<doDME>false</doDME>
+				<legalName>Harrison Steel Employee Clinic</legalName>
+				<name>Harrison Steel Employee Clinic</name>
+				<address>101 Suzie Ln</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<latitude>40.2888942</latitude>
+				<longitude>-87.2415022</longitude>
+				<contractPercent>0.0</contractPercent>
+				<piContractPercent>0.0</piContractPercent>
+				<pharmacyLabel>Pharmex F</pharmacyLabel>
+				<doDrugImprints>false</doDrugImprints>
+				<currentRxNumber>105528</currentRxNumber>
+				<currentSampleNumber>900000</currentSampleNumber>
+				<durOption>1</durOption>
+				<durDupTherapy>true</durDupTherapy>
+				<durCurrentRxOnly>false</durCurrentRxOnly>
+				<safetyCheckOption>0</safetyCheckOption>
+				<newRxNameOption>0</newRxNameOption>
+				<autoDeleteDepleted>true</autoDeleteDepleted>
+				<doProducts>true</doProducts>
+				<doServices>false</doServices>
+				<sigSelect>false</sigSelect>
+				<doRefills>true</doRefills>
+				<selectAndScan>false</selectAndScan>
+				<controlsDefaultDoctorId />
+				<rph />
+				<noBarcodeScanner>false</noBarcodeScanner>
+				<taxRate>0.0</taxRate>
+				<drugTaxRate>0.0</drugTaxRate>
+				<otcTaxRate>0.0</otcTaxRate>
+				<restrictFormulary>true</restrictFormulary>
+				<homeMessage>Ana Coello#x0D;Account Manager#x0D;A-S Medication Solutions#x0D;Email: ana.coello@asmrx.com #x0D;Office: 888-297-8756 ext. 103#x0D;Direct: (949) 356-6393</homeMessage>
+				<invoiceFreeText />
+				<doBarcodeMask>false</doBarcodeMask>
+				<defaultBarcodeMask />
+				<xoffset>0.1</xoffset>
+				<yoffset>0.0</yoffset>
+				<logoOffset>0.0</logoOffset>
+				<showFields>[firstName][middleName][lastName][address][homePhone][cellPhone][workPhone][dob][gender][heightWeight][externalId][driversLic][groupName][email][dateOfInjury][claimReferenceId][daw][daysSupply][endDate][prn][refillMethod][refillNotification][rxStatus][icd9]</showFields>
+				<requiredFields>[firstName][lastName][dob][gender][externalId][groupName][daysSupply][prn]</requiredFields>
+				<doInvoice>true</doInvoice>
+				<allowDiscounts>false</allowDiscounts>
+				<discountPlans />
+				<patientGroupNames>HS1001,ACS,ACSNHP,COA,COANHP,HARRISONDPC,WARREN,WCHS</patientGroupNames>
+				<defaultPatientGroupName />
+				<ignoreBarcodeCase>true</ignoreBarcodeCase>
+				<disableSupplies>true</disableSupplies>
+				<numLabelsPrint>1</numLabelsPrint>
+				<doAppetiteSuppressantConsent>false</doAppetiteSuppressantConsent>
+				<disableIPSecurity>true</disableIPSecurity>
+				<doWCSaleAdjust>false</doWCSaleAdjust>
+				<doPIPSaleAdjust>false</doPIPSaleAdjust>
+				<doWCAwpOverride>false</doWCAwpOverride>
+				<doPIAwpOverride>false</doPIAwpOverride>
+				<useReferenceNdc>true</useReferenceNdc>
+				<pipIgnoreReferenceNdc>false</pipIgnoreReferenceNdc>
+				<multiContainerPricing>true</multiContainerPricing>
+				<countInventoryShowAnswers>false</countInventoryShowAnswers>
+				<disableInputFieldEditing>true</disableInputFieldEditing>
+				<disableReqFieldForCash>false</disableReqFieldForCash>
+				<emrInterface>true</emrInterface>
+				<hintAPIKey />
+				<disableBillingExport>false</disableBillingExport>
+				<inventoryCountLotExp>true</inventoryCountLotExp>
+				<inventoryReimFiltering>false</inventoryReimFiltering>
+				<lowLevelByNDC>false</lowLevelByNDC>
+				<groupName>WECARE TLC, LLC</groupName>
+				<deaLicense>FH2916774</deaLicense>
+				<nabp>1569788</nabp>
+				<npi />
+				<idahoRegNumber />
+				<doCompounds>false</doCompounds>
+				<doLabs>false</doLabs>
+				<doCoastDiag>false</doCoastDiag>
+				<defaultCompoundExpDays>0</defaultCompoundExpDays>
+				<separateControls>false</separateControls>
+				<separateNonControls>false</separateNonControls>
+				<nuCareExternalId />
+				<bryantRanchExternalId />
+				<medSourceExternalId />
+				<disableDuoMonographs>false</disableDuoMonographs>
+				<autoPatientQueuePurge>false</autoPatientQueuePurge>
+				<purgePatientHours>0</purgePatientHours>
+				<cartRxWrittenDate>true</cartRxWrittenDate>
+				<doNCPDPClaims>false</doNCPDPClaims>
+				<ncpdpLimitPlans>false</ncpdpLimitPlans>
+				<ncpdpRouting>0</ncpdpRouting>
+				<e1DailyLimit>0</e1DailyLimit>
+				<disableE1>false</disableE1>
+				<doInsurance>false</doInsurance>
+				<lastNameFirst>false</lastNameFirst>
+				<contactInfo />
+				<numInsCoverage>2</numInsCoverage>
+				<defaultOriginCode>1</defaultOriginCode>
+				<defaultPlaceOfService />
+				<defaultPatientResidence>01</defaultPatientResidence>
+				<defaultLevelOfService>1</defaultLevelOfService>
+				<defaultPharmacyServiceType>0</defaultPharmacyServiceType>
+				<defaultDispensingFee>0</defaultDispensingFee>
+				<defaultBasisOfCost>0</defaultBasisOfCost>
+				<defaultNCPDPPlanId />
+				<defaultNCPDPGroupId />
+				<defaultWCPlanId />
+				<defaultWCGroupId />
+				<excludeAutoAdjudicate />
+				<defaultCompoundType>0</defaultCompoundType>
+				<defaultRouteOfAdmin />
+				<defaultDosageForm>0</defaultDosageForm>
+				<defaultUnitForm>0</defaultUnitForm>
+				<defaultSubClariCode />
+				<extIdBarcodes>false</extIdBarcodes>
+				<refPatientSiteId />
+				<refFormularySiteId />
+				<shipmentRequestEmail>ana.coello@asmrx.com,lasandra.cobb@wecaretlc.com</shipmentRequestEmail>
+				<logoMini />
+				<faxServerOutEmail />
+				<miscOptions>AUTORXSELECT,COSTPRICEALERT,DISABLEADDPATIENT,EMRMASTERWARNING,ICD10VALIDATION,MULTISITE,NOAUTOICD10S,NOINVENTORYCARTICON,NOPATIENTPAYMENTS,NOPATINVACK,ORDERFORMULARYONLY,REFILLSREMAINING,RX2DISPENSE,RXSTRICT,NOEXPIREDURINGDAYSSUPPLY</miscOptions>
+				<defaultCity>ATTICA</defaultCity>
+				<defaultState>Indiana</defaultState>
+				<defaultZip>479182009</defaultZip>
+				<ssInterface>false</ssInterface>
+				<ssEHR>true</ssEHR>
+				<isDisabled>false</isDisabled>
+				<pdmpReportEmail />
+				<orderViewEmail />
+				<doRxBilling>false</doRxBilling>
+				<rxbAfterDate>0</rxbAfterDate>
+				<doHipaaForm>true</doHipaaForm>
+				<doLienAgreement>false</doLienAgreement>
+				<doAssignmentOfBenefits>false</doAssignmentOfBenefits>
+				<doPatientAgentWaiver>false</doPatientAgentWaiver>
+				<doShipping>false</doShipping>
+				<defaultShipping>0</defaultShipping>
+				<autoRequestOneShot>false</autoRequestOneShot>
+				<disableDefaultValues>false</disableDefaultValues>
+				<disableLastDoctor>true</disableLastDoctor>
+				<disableLastSig>false</disableLastSig>
+				<labTestOptions />
+				<googleXlateDate>0</googleXlateDate>
+				<googleXlateName />
+				<googleXlateUsername />
+				<googleXlateIPAddr />
+				<googleXlateRemoteHost />
+				<doSamples>false</doSamples>
+				<firstDispenseDate>0</firstDispenseDate>
+				<lastDispenseDate>2021-07-15T20:54:02</lastDispenseDate>
+				<limitManuCodes />
+				<rxRequestLimit />
+				<rxRequestExclude />
+				<rxRequestLimitByNDC>true</rxRequestLimitByNDC>
+				<printByUser>false</printByUser>
+				<isPharmacy>false</isPharmacy>
+				<usePhysAsstOnLabel>false</usePhysAsstOnLabel>
+				<rxTransferSites />
+				<doAnalytics>false</doAnalytics>
+				<doAuthorizeNet>false</doAuthorizeNet>
+				<creditCardGatewayUsername />
+				<creditCardGatewayPassword />
+				<doProgressiveExport>false</doProgressiveExport>
+				<lockFormulary>true</lockFormulary>
+				<addShipmentAllOrNone>false</addShipmentAllOrNone>
+				<clientId>8EFSDARUJV</clientId>
+				<clientId2 />
+				<clientId3 />
+				<labelWidth>0.0</labelWidth>
+				<disableDispensingControls>false</disableDispensingControls>
+				<disableLabelPatientAddress>false</disableLabelPatientAddress>
+				<doPods>false</doPods>
+				<faxServerOverride />
+				<voidDays>21</voidDays>
+				<autoShipDays>WE</autoShipDays>
+				<do340B>false</do340B>
+				<disableNCPDPCompounds>false</disableNCPDPCompounds>
+				<doMailOrder>false</doMailOrder>
+				<inHouseAdmin>true</inHouseAdmin>
+				<doExternalOrders>false</doExternalOrders>
+				<doPickups>false</doPickups>
+				<doScriptDrop>false</doScriptDrop>
+				<scriptDropActive>false</scriptDropActive>
+				<apiKey>80ptSsr6froJ6yqhxdFwTe</apiKey>
+				<hipaaEnc>1558088057425|Cindy+Cade|cindy.cade|50.195.128.230|50-195-128-230-static.hfc.comcastbusiness.net</hipaaEnc>
+				<hipaaDate>1558088057425</hipaaDate>
+				<hipaaName>Cindy Cade</hipaaName>
+				<hipaaUsername>cindy.cade</hipaaUsername>
+				<hipaaIPAddr>50.195.128.230</hipaaIPAddr>
+				<hipaaRemoteHost>50-195-128-230-static.hfc.comcastbusiness.net</hipaaRemoteHost>
+				<mdsPSAO>false</mdsPSAO>
+				<exactRxBottleExclude />
+				<doMidLevelProviders>true</doMidLevelProviders>
+				<apprissPMPGatewayUsername />
+				<apprissPMPGatewayPassword />
+				<customExportFields />
+				<hideDOB>false</hideDOB>
+				<noBrandDiscount>false</noBrandDiscount>
+				<isRetailPharmacy>false</isRetailPharmacy>
+				<shipMethods />
+				<enablePatientApp>false</enablePatientApp>
+				<disableAppointments>false</disableAppointments>
+				<disableManualAddInventory>false</disableManualAddInventory>
+				<disableRxRequests>false</disableRxRequests>
+				<eRxFacilities>false</eRxFacilities>
+				<eRxDirect>false</eRxDirect>
+				<assigneeName />
+				<licenseInfoEnc />
+				<licenseInfo />
+			</site>
+			<refName />
+			<refAddress />
+			<refAddress2 />
+			<refCity />
+			<refState />
+			<refZip />
+			<refPhone />
+			<refFax />
+			<refSiteId />
+			<refNPI />
+			<facilityId />
+			<facilityName />
+			<facilityAddress />
+			<facilityAddress2 />
+			<facilityCity />
+			<facilityState />
+			<facilityZip />
+			<facilityPhone />
+			<facilityEnc />
+			<inHouse>false</inHouse>
+			<encounterId />
+		</PrescriptionDescriptor>
+	</Prescriptions>
+	<EPrescriptions />
+	<MedicationsPrescribed>
+		<PrescribedItem>
+			<Id>MZ2J9ZS83C</Id>
+			<OnSite>true</OnSite>
+			<WrittenDate>20210708</WrittenDate>
+			<Expired>false</Expired>
+			<GCN>71885</GCN>
+			<MedId>445423</MedId>
+			<PrescriberLastName>HANSEN-BUNDY</PrescriberLastName>
+			<PrescriberFirstName>SHERRI</PrescriberFirstName>
+			<PrescriberMiddleName />
+			<PrescriberTitle>MD</PrescriberTitle>
+			<PrescriberNPI>1831105741</PrescriberNPI>
+			<PrescriberDEA>FH2916774</PrescriberDEA>
+			<DrugName>MUCINEX 600MG TAB</DrugName>
+			<Strength>600MG</Strength>
+			<Form>TAB</Form>
+			<Unit>EA</Unit>
+			<Quantity>20</Quantity>
+			<Schedule>0</Schedule>
+			<DAW>0</DAW>
+			<OriginalRefills>0</OriginalRefills>
+			<Refills>0</Refills>
+			<DaysSupply>10</DaysSupply>
+			<SIG>Take one tablet twice daily as needed for congestion.</SIG>
+			<ICD10 />
+			<Note />
+			<PRN />
+		</PrescribedItem>
+		<PrescribedItem>
+			<Id>2Q9JWU7WB1</Id>
+			<OnSite>true</OnSite>
+			<WrittenDate>20191127</WrittenDate>
+			<Expired>true</Expired>
+			<GCN>17037</GCN>
+			<MedId>170282</MedId>
+			<PrescriberLastName>HANSEN-BUNDY</PrescriberLastName>
+			<PrescriberFirstName>SHERRI</PrescriberFirstName>
+			<PrescriberMiddleName />
+			<PrescriberTitle>MD</PrescriberTitle>
+			<PrescriberNPI>1831105741</PrescriberNPI>
+			<PrescriberDEA>FH2916774</PrescriberDEA>
+			<DrugName>CETIRIZINE 10MG TAB</DrugName>
+			<Strength>10MG</Strength>
+			<Form>TAB</Form>
+			<Unit>EA</Unit>
+			<Quantity>90</Quantity>
+			<Schedule>0</Schedule>
+			<DAW>0</DAW>
+			<OriginalRefills>3</OriginalRefills>
+			<Refills>3</Refills>
+			<DaysSupply>90</DaysSupply>
+			<SIG>Take one tablet once daily</SIG>
+			<ICD10 />
+			<Note />
+			<PRN />
+		</PrescribedItem>
+		<PrescribedItem>
+			<Id>1WKQZNL5UY</Id>
+			<OnSite>true</OnSite>
+			<WrittenDate>20191119</WrittenDate>
+			<Expired>true</Expired>
+			<GCN>28090</GCN>
+			<MedId>267456</MedId>
+			<PrescriberLastName>HANSEN-BUNDY</PrescriberLastName>
+			<PrescriberFirstName>SHERRI</PrescriberFirstName>
+			<PrescriberMiddleName />
+			<PrescriberTitle>MD</PrescriberTitle>
+			<PrescriberNPI>1831105741</PrescriberNPI>
+			<PrescriberDEA>FH2916774</PrescriberDEA>
+			<DrugName>VENTOLIN HFA 90MCG HFA GM</DrugName>
+			<Strength>90MCG</Strength>
+			<Form>HFA</Form>
+			<Unit>GM</Unit>
+			<Quantity>18</Quantity>
+			<Schedule>0</Schedule>
+			<DAW>0</DAW>
+			<OriginalRefills>11</OriginalRefills>
+			<Refills>11</Refills>
+			<DaysSupply>30</DaysSupply>
+			<SIG>Take 2 puffs every 4hours as needed for wheezing</SIG>
+			<ICD10 />
+			<Note />
+			<PRN />
+		</PrescribedItem>
+	</MedicationsPrescribed>
+	<MedicationsDispensed>
+		<DispensedItem>
+			<Id>XPZZDTDF1L</Id>
+			<IsOtherPharmacy>false</IsOtherPharmacy>
+			<SiteNumber>68606</SiteNumber>
+			<SiteName>Harrison Steel Employee Clinic</SiteName>
+			<NPI />
+			<NCPDPId>1569788</NCPDPId>
+			<RxNumber>105487</RxNumber>
+			<DateOfService>7/8/2021</DateOfService>
+			<FillNumber>0</FillNumber>
+			<NDC>50090134000</NDC>
+			<ManuNDC>63824000832</ManuNDC>
+			<Quantity>20</Quantity>
+			<DaysSupply>10</DaysSupply>
+			<Description>MUCINEX (GUAIFENESIN) 600MG TAB</Description>
+			<Prescriber>HANSEN-BUNDY, SHERRI  MD (Attica IN) 1831105741</Prescriber>
+		</DispensedItem>
+		<DispensedItem>
+			<Id>HI4Z9P86S3</Id>
+			<IsOtherPharmacy>false</IsOtherPharmacy>
+			<SiteNumber>68606</SiteNumber>
+			<SiteName>Harrison Steel Employee Clinic</SiteName>
+			<NPI />
+			<NCPDPId>1569788</NCPDPId>
+			<RxNumber>101701</RxNumber>
+			<DateOfService>11/19/2019</DateOfService>
+			<FillNumber>0</FillNumber>
+			<NDC>50090413700</NDC>
+			<ManuNDC>66993001968</ManuNDC>
+			<Quantity>18</Quantity>
+			<DaysSupply>30</DaysSupply>
+			<Description>VENTOLIN HFA 90MCG HFA GM</Description>
+			<Prescriber>HANSEN-BUNDY, SHERRI  MD (Attica IN) 1831105741</Prescriber>
+		</DispensedItem>
+	</MedicationsDispensed>
+	<Orders>
+		<OrderDescriptor>
+			<id>61E1IS1EZB</id>
+			<organizationId>SFBJUTH7V8</organizationId>
+			<siteId>WQQSA2JUMH</siteId>
+			<userId>9HG2CHZSAP</userId>
+			<patientId>Y54ZVDK4EJ</patientId>
+			<doctorId>1YPRJ75VCQ</doctorId>
+			<employerEnc />
+			<payerId />
+			<payerEnc />
+			<payer2Enc />
+			<attorneyEnc />
+			<createdDate>2021-07-08T21:02:41</createdDate>
+			<filledDate>0</filledDate>
+			<dispensedDate>0</dispensedDate>
+			<voidDate />
+			<operator>carol.york</operator>
+			<dateOfInjury>0</dateOfInjury>
+			<claimReferenceId />
+			<claimJurisdiction />
+			<authorizationId />
+			<billingType>0</billingType>
+			<paidCash>0</paidCash>
+			<paidCheck>0</paidCheck>
+			<paidCreditCard>0</paidCreditCard>
+			<durDate />
+			<wcPrintDate />
+			<adjusterName />
+			<dateOfService>0</dateOfService>
+			<shipping>0</shipping>
+			<carrier />
+			<tracking />
+			<safetyCheck>false</safetyCheck>
+			<podName />
+			<rph />
+			<patient>
+				<id>Y54ZVDK4EJ</id>
+				<siteId>WQQSA2JUMH</siteId>
+				<createdDate>2019-11-19T21:34:31</createdDate>
+				<externalId>205772</externalId>
+				<isDeleted>false</isDeleted>
+				<firstName>GRACE EILEEN</firstName>
+				<middleName />
+				<lastName>BENDER</lastName>
+				<address>PO BOX 53</address>
+				<address2 />
+				<city>NEWTOWN</city>
+				<state>Indiana</state>
+				<zip>47969</zip>
+				<countryCode />
+				<email />
+				<homePhone>7652995044</homePhone>
+				<cellPhone>7652995044</cellPhone>
+				<workPhone />
+				<dob>20091009</dob>
+				<heightInches>58.0</heightInches>
+				<weightLbs>96.0</weightLbs>
+				<gender>f</gender>
+				<ssn />
+				<race />
+				<ethnicity />
+				<language />
+				<claimsEnc />
+				<medications>68084057211|20210708,00378363701|20191127,47463001101|20191119</medications>
+				<illnesses />
+				<allergies />
+				<doctorId>1YPRJ75VCQ</doctorId>
+				<isDeactivated>false</isDeactivated>
+				<deactivatedReason />
+				<billingApproveDate />
+				<authorizationId />
+				<wellnessId />
+				<refillMethod>0</refillMethod>
+				<refillNotification>0</refillNotification>
+				<groupName>HS1001</groupName>
+				<origin>RemoteLogin</origin>
+				<nextVisitDate>0</nextVisitDate>
+				<claims />
+				<isCommitted>true</isCommitted>
+				<addressVerified>true</addressVerified>
+				<physicianAssistantId />
+				<consentDate>0</consentDate>
+				<lastPDMPCheckDate>0</lastPDMPCheckDate>
+				<claimIdx>0</claimIdx>
+				<medicationsGCN />
+				<notes />
+			</patient>
+			<doctor>
+				<id>1YPRJ75VCQ</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<primarySiteId>WQQSA2JUMH</primarySiteId>
+				<virtualSiteId />
+				<createdDate>2019-05-14T15:02:33</createdDate>
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName>SHERRI</firstName>
+				<middleName />
+				<lastName>HANSEN-BUNDY</lastName>
+				<email>dr.bundy@wecaretlc.com</email>
+				<title>MD</title>
+				<taxonomies>207P00000X</taxonomies>
+				<deaLicense>FH2916774</deaLicense>
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense>01054406A</doctorLicense>
+				<doctorLicenseState>Indiana</doctorLicenseState>
+				<taxId />
+				<npi>1831105741</npi>
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address>101 SUZIE LN</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<imagePath />
+				<emrId>DRBUNDY</emrId>
+				<spiRoot>6671018375</spiRoot>
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate>2021-07-07T16:00:00</lastZeroReportDate>
+				<lastSchDispenseDate>2021-06-29T18:17:13</lastSchDispenseDate>
+				<lastDispenseDate>2021-07-08T20:56:19</lastDispenseDate>
+				<deaExpDate>20231031</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus>Registered</surescriptsRequestStatus>
+				<surescriptsRequestEPCS>true</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>true</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</doctor>
+			<items>
+				<OrderItemDescriptor>
+					<id>XPZZDTDF1L</id>
+					<organizationId>SFBJUTH7V8</organizationId>
+					<siteId>WQQSA2JUMH</siteId>
+					<orderId>61E1IS1EZB</orderId>
+					<patientId>Y54ZVDK4EJ</patientId>
+					<isVoided>false</isVoided>
+					<prescriptionId>MZ2J9ZS83C</prescriptionId>
+					<description />
+					<rxNumber>105487</rxNumber>
+					<ndc>50090134000</ndc>
+					<upc />
+					<serviceCode />
+					<dmeCode />
+					<numCount>1</numCount>
+					<quantity>20.0</quantity>
+					<lotNumber>1124287</lotNumber>
+					<expirationDate>2023-11-30T23:59:59</expirationDate>
+					<awp>1912</awp>
+					<mac>0</mac>
+					<cashPrice>0</cashPrice>
+					<cost>1031</cost>
+					<base>1031</base>
+					<discount>0</discount>
+					<discountPlan />
+					<paid>0</paid>
+					<insPatientPays>0</insPatientPays>
+					<insReimbursement>0</insReimbursement>
+					<insLastStatus>0</insLastStatus>
+					<isTaxable>false</isTaxable>
+					<isRefill>false</isRefill>
+					<isBulk>false</isBulk>
+					<isSample>false</isSample>
+					<isDME>false</isDME>
+					<refillNumber>0</refillNumber>
+					<billingType>0</billingType>
+					<refNdc>63824000832</refNdc>
+					<refAwp>1912</refAwp>
+					<refMac>0</refMac>
+					<compoundIdx>0</compoundIdx>
+					<inHouseAdmin>false</inHouseAdmin>
+					<rxStatus />
+					<prescription>
+						<id>MZ2J9ZS83C</id>
+						<siteId>WQQSA2JUMH</siteId>
+						<patientId>Y54ZVDK4EJ</patientId>
+						<prescriberId>1YPRJ75VCQ</prescriberId>
+						<midLevelId />
+						<prescriberAgent />
+						<writtenDate>2021-07-08T21:02:24</writtenDate>
+						<renewDate />
+						<voidDate />
+						<transferDate />
+						<printCarryDate />
+						<effectiveDate>0</effectiveDate>
+						<endDate>0</endDate>
+						<isExpired>false</isExpired>
+						<isSample>false</isSample>
+						<gcnseqno>71885</gcnseqno>
+						<compoundParts />
+						<drugName>MUCINEX 600MG TAB</drugName>
+						<strengthDesc>600MG</strengthDesc>
+						<form>TAB</form>
+						<unit>EA</unit>
+						<quantity>20.0</quantity>
+						<schedule>0</schedule>
+						<daw>0</daw>
+						<refills>0</refills>
+						<daysSupply>10</daysSupply>
+						<sig>Take one tablet twice daily as needed for congestion.</sig>
+						<icd9 />
+						<note />
+						<treatmentType>0</treatmentType>
+						<originalRefills>0</originalRefills>
+						<rxNumber>105487</rxNumber>
+						<lastFillDate>20210708</lastFillDate>
+						<refillDate />
+						<refillAsNeeded>false</refillAsNeeded>
+						<originCode>1</originCode>
+						<scheduledRxId />
+						<refLocation />
+						<isCommitted>true</isCommitted>
+						<potencyUnitCode />
+						<supplyParts />
+						<prescriberEnc>i=1YPRJ75VCQ|o=SFBJUTH7V8|p=WQQSA2JUMH|c=1557846153154|f=SHERRI|l=HANSEN-BUNDY|e=dr.bundy@wecaretlc.com|t=MD|de=FH2916774|dl=01054406A|ds=Indiana|np=1831105741|a=101 SUZIE LN|ca=Attica|s=Indiana|z=479182009|ph=7657626789|fa=7657626766|emr=DRBUNDY|spi=6671018375|lzd=1626019200000|lsh=1624990633918|ldd=1626123400150|dx=20231031|txs=207P00000X|sst=Registered|epcs=T|ssr=T</prescriberEnc>
+						<midLevelEnc />
+						<prescriber>
+							<id>1YPRJ75VCQ</id>
+							<organizationId>SFBJUTH7V8</organizationId>
+							<primarySiteId>WQQSA2JUMH</primarySiteId>
+							<virtualSiteId />
+							<createdDate>2019-05-14T15:02:33</createdDate>
+							<isDeleted>false</isDeleted>
+							<isDisabled>false</isDisabled>
+							<showDeaLicense>false</showDeaLicense>
+							<showDoctorLicense>false</showDoctorLicense>
+							<isPhysicianAssistant>false</isPhysicianAssistant>
+							<firstName>SHERRI</firstName>
+							<middleName />
+							<lastName>HANSEN-BUNDY</lastName>
+							<email>dr.bundy@wecaretlc.com</email>
+							<title>MD</title>
+							<taxonomies>207P00000X</taxonomies>
+							<deaLicense>FH2916774</deaLicense>
+							<xDeaLicense />
+							<deaSuffix />
+							<doctorLicense>01054406A</doctorLicense>
+							<doctorLicenseState>Indiana</doctorLicenseState>
+							<taxId />
+							<npi>1831105741</npi>
+							<activeProviderNumber />
+							<idahoRegNumber />
+							<labAccountId />
+							<address>101 SUZIE LN</address>
+							<address2 />
+							<city>Attica</city>
+							<state>Indiana</state>
+							<zip>479182009</zip>
+							<countryCode />
+							<phone>7657626789</phone>
+							<fax>7657626766</fax>
+							<imagePath />
+							<emrId>DRBUNDY</emrId>
+							<spiRoot>6671018375</spiRoot>
+							<prescriptionTitle />
+							<disableZeroReporting>false</disableZeroReporting>
+							<lastZeroReportDate>2021-07-11T16:00:00</lastZeroReportDate>
+							<lastSchDispenseDate>2021-06-29T18:17:13</lastSchDispenseDate>
+							<lastDispenseDate>2021-07-12T20:56:40</lastDispenseDate>
+							<deaExpDate>20231031</deaExpDate>
+							<licenseExpDate>0</licenseExpDate>
+							<surescriptsRequestStatus>Registered</surescriptsRequestStatus>
+							<surescriptsRequestEPCS>true</surescriptsRequestEPCS>
+							<surescriptsRequestRefills>true</surescriptsRequestRefills>
+							<licenseInfoEnc />
+							<licenseInfo />
+						</prescriber>
+						<midLevel>
+							<id />
+							<organizationId />
+							<primarySiteId />
+							<virtualSiteId />
+							<createdDate />
+							<isDeleted>false</isDeleted>
+							<isDisabled>false</isDisabled>
+							<showDeaLicense>false</showDeaLicense>
+							<showDoctorLicense>false</showDoctorLicense>
+							<isPhysicianAssistant>false</isPhysicianAssistant>
+							<firstName />
+							<middleName />
+							<lastName />
+							<email />
+							<title />
+							<taxonomies />
+							<deaLicense />
+							<xDeaLicense />
+							<deaSuffix />
+							<doctorLicense />
+							<doctorLicenseState />
+							<taxId />
+							<npi />
+							<activeProviderNumber />
+							<idahoRegNumber />
+							<labAccountId />
+							<address />
+							<address2 />
+							<city />
+							<state />
+							<zip />
+							<countryCode />
+							<phone />
+							<fax />
+							<imagePath />
+							<emrId />
+							<spiRoot />
+							<prescriptionTitle />
+							<disableZeroReporting>false</disableZeroReporting>
+							<lastZeroReportDate />
+							<lastSchDispenseDate />
+							<lastDispenseDate />
+							<deaExpDate>0</deaExpDate>
+							<licenseExpDate>0</licenseExpDate>
+							<surescriptsRequestStatus />
+							<surescriptsRequestEPCS>false</surescriptsRequestEPCS>
+							<surescriptsRequestRefills>false</surescriptsRequestRefills>
+							<licenseInfoEnc />
+							<licenseInfo />
+						</midLevel>
+						<refName />
+						<refAddress />
+						<refAddress2 />
+						<refCity />
+						<refState />
+						<refZip />
+						<refPhone />
+						<refFax />
+						<refSiteId />
+						<refNPI />
+						<facilityId />
+						<facilityName />
+						<facilityAddress />
+						<facilityAddress2 />
+						<facilityCity />
+						<facilityState />
+						<facilityZip />
+						<facilityPhone />
+						<facilityEnc />
+						<inHouse>false</inHouse>
+						<encounterId />
+					</prescription>
+					<drugInfo>
+						<ndc>50090134000</ndc>
+						<gcnseqno>71885</gcnseqno>
+						<hiclseqno>271</hiclseqno>
+						<medId>00445423</medId>
+						<manufacturer>A-S MEDICATION</manufacturer>
+						<brandName>MUCINEX</brandName>
+						<genericName>GUAIFENESIN</genericName>
+						<labelName>MUCINEX ER 600 MG TAB</labelName>
+						<packageQty>20.0</packageQty>
+						<form>TAB</form>
+						<formLong>TAB ER 12H</formLong>
+						<unit>EA</unit>
+						<schedule>0</schedule>
+						<isOTC>true</isOTC>
+						<isRebate>false</isRebate>
+						<isRepack>true</isRepack>
+						<isObsolete>false</isObsolete>
+						<routeOfAdmin>ORAL</routeOfAdmin>
+						<strengthDesc>600MG</strengthDesc>
+						<enhancedTheraClass>Respiratory Therapy Agents|Expectorants|Expectorants - Single Agents, General</enhancedTheraClass>
+						<drugCat />
+						<gender />
+						<isBrand>true</isBrand>
+						<awp>1912</awp>
+						<awpDate>20201210</awpDate>
+						<source>FDB</source>
+						<mac>0</mac>
+						<leaflet>630</leaflet>
+						<leafletsp>630</leafletsp>
+						<prodCode>6388-0</prodCode>
+						<caution1 />
+						<caution2 />
+						<caution3 />
+						<customLeaflet>false</customLeaflet>
+						<locked>false</locked>
+						<relatedGCNSeqno />
+						<imageUrl />
+						<mpcEnc />
+						<nadacUnit>0.0</nadacUnit>
+						<shape />
+						<size />
+						<color />
+						<imprint />
+						<imprintType />
+						<hasSymbol>false</hasSymbol>
+						<popularity>0</popularity>
+						<papApplicationFilename />
+						<lastUpdate>0</lastUpdate>
+						<gcnb>71885B</gcnb>
+					</drugInfo>
+					<totalQuantity>20.0</totalQuantity>
+					<serialNumber />
+				</OrderItemDescriptor>
+			</items>
+			<selectAndScanInventoryId />
+			<selectedPrescriptionId />
+			<durLogId />
+			<patientEnc>i=Y54ZVDK4EJ|si=WQQSA2JUMH|c=1574199271720|e=205772|f=GRACE+EILEEN|l=BENDER|a=PO+BOX+53|ca=NEWTOWN|s=Indiana|z=47969|hp=7652995044|cp=7652995044|do=20091009|h=58|w=96|g=f|doc=1YPRJ75VCQ|gr=HS1001|o=RemoteLogin|av=T|med=68084057211%7C20210708%2C00378363701%7C20191127%2C47463001101%7C20191119</patientEnc>
+			<providerEnc>i=1YPRJ75VCQ|o=SFBJUTH7V8|p=WQQSA2JUMH|c=1557846153154|f=SHERRI|l=HANSEN-BUNDY|e=dr.bundy%40wecaretlc.com|t=MD|de=FH2916774|dl=01054406A|ds=Indiana|np=1831105741|a=101+SUZIE+LN|ca=Attica|s=Indiana|z=479182009|ph=7657626789|fa=7657626766|emr=DRBUNDY|spi=6671018375|lzd=1625673600000|lsh=1624990633918|ldd=1625777779358|dx=20231031|txs=207P00000X|sst=Registered|epcs=T|ssr=T</providerEnc>
+			<lastName>BENDER</lastName>
+			<physicianAssistantId />
+		</OrderDescriptor>
+		<OrderDescriptor>
+			<id>H3WP2WVHED</id>
+			<organizationId>SFBJUTH7V8</organizationId>
+			<siteId>WQQSA2JUMH</siteId>
+			<userId>GXYMZKK11S</userId>
+			<patientId>Y54ZVDK4EJ</patientId>
+			<doctorId>1YPRJ75VCQ</doctorId>
+			<employerEnc />
+			<payerId />
+			<payerEnc />
+			<payer2Enc />
+			<attorneyEnc />
+			<createdDate>2019-11-19T21:52:25</createdDate>
+			<filledDate>0</filledDate>
+			<dispensedDate>0</dispensedDate>
+			<voidDate />
+			<operator>kayla.hood</operator>
+			<dateOfInjury>0</dateOfInjury>
+			<claimReferenceId />
+			<claimJurisdiction />
+			<authorizationId />
+			<billingType>0</billingType>
+			<paidCash>0</paidCash>
+			<paidCheck>0</paidCheck>
+			<paidCreditCard>0</paidCreditCard>
+			<durDate>2019-11-19T21:50:09</durDate>
+			<wcPrintDate />
+			<adjusterName />
+			<dateOfService>0</dateOfService>
+			<shipping>0</shipping>
+			<carrier />
+			<tracking />
+			<safetyCheck>false</safetyCheck>
+			<podName />
+			<rph />
+			<patient>
+				<id>Y54ZVDK4EJ</id>
+				<siteId>WQQSA2JUMH</siteId>
+				<createdDate>2019-11-19T21:34:31</createdDate>
+				<externalId>205772</externalId>
+				<isDeleted>false</isDeleted>
+				<firstName>GRACE EILEEN</firstName>
+				<middleName />
+				<lastName>BENDER</lastName>
+				<address>PO BOX 53</address>
+				<address2 />
+				<city>NEWTOWN</city>
+				<state>Indiana</state>
+				<zip>47969</zip>
+				<countryCode />
+				<email />
+				<homePhone>7652995044</homePhone>
+				<cellPhone>7652995044</cellPhone>
+				<workPhone />
+				<dob>20091009</dob>
+				<heightInches>58.0</heightInches>
+				<weightLbs>96.0</weightLbs>
+				<gender>f</gender>
+				<ssn />
+				<race />
+				<ethnicity />
+				<language />
+				<claimsEnc />
+				<medications>68084057211|20210708,00378363701|20191127,47463001101|20191119</medications>
+				<illnesses />
+				<allergies />
+				<doctorId>1YPRJ75VCQ</doctorId>
+				<isDeactivated>false</isDeactivated>
+				<deactivatedReason />
+				<billingApproveDate />
+				<authorizationId />
+				<wellnessId />
+				<refillMethod>0</refillMethod>
+				<refillNotification>0</refillNotification>
+				<groupName>HS1001</groupName>
+				<origin>RemoteLogin</origin>
+				<nextVisitDate>0</nextVisitDate>
+				<claims />
+				<isCommitted>true</isCommitted>
+				<addressVerified>true</addressVerified>
+				<physicianAssistantId />
+				<consentDate>0</consentDate>
+				<lastPDMPCheckDate>0</lastPDMPCheckDate>
+				<claimIdx>0</claimIdx>
+				<medicationsGCN />
+				<notes />
+			</patient>
+			<doctor>
+				<id>1YPRJ75VCQ</id>
+				<organizationId>SFBJUTH7V8</organizationId>
+				<primarySiteId>WQQSA2JUMH</primarySiteId>
+				<virtualSiteId />
+				<createdDate>2019-05-14T15:02:33</createdDate>
+				<isDeleted>false</isDeleted>
+				<isDisabled>false</isDisabled>
+				<showDeaLicense>false</showDeaLicense>
+				<showDoctorLicense>false</showDoctorLicense>
+				<isPhysicianAssistant>false</isPhysicianAssistant>
+				<firstName>SHERRI</firstName>
+				<middleName />
+				<lastName>HANSEN-BUNDY</lastName>
+				<email>dr.bundy@wecaretlc.com</email>
+				<title>MD</title>
+				<taxonomies>207P00000X</taxonomies>
+				<deaLicense>FH2916774</deaLicense>
+				<xDeaLicense />
+				<deaSuffix />
+				<doctorLicense>01054406A</doctorLicense>
+				<doctorLicenseState>Indiana</doctorLicenseState>
+				<taxId />
+				<npi>1831105741</npi>
+				<activeProviderNumber />
+				<idahoRegNumber />
+				<labAccountId />
+				<address>101 SUZIE LN</address>
+				<address2 />
+				<city>Attica</city>
+				<state>Indiana</state>
+				<zip>479182009</zip>
+				<countryCode />
+				<phone>7657626789</phone>
+				<fax>7657626766</fax>
+				<imagePath />
+				<emrId>DRBUNDY</emrId>
+				<spiRoot>6671018375</spiRoot>
+				<prescriptionTitle />
+				<disableZeroReporting>false</disableZeroReporting>
+				<lastZeroReportDate>2019-11-18T17:00:00</lastZeroReportDate>
+				<lastSchDispenseDate>2019-10-29T19:25:14</lastSchDispenseDate>
+				<lastDispenseDate>2019-11-19T21:20:54</lastDispenseDate>
+				<deaExpDate>20201031</deaExpDate>
+				<licenseExpDate>0</licenseExpDate>
+				<surescriptsRequestStatus />
+				<surescriptsRequestEPCS>false</surescriptsRequestEPCS>
+				<surescriptsRequestRefills>false</surescriptsRequestRefills>
+				<licenseInfoEnc />
+				<licenseInfo />
+			</doctor>
+			<items>
+				<OrderItemDescriptor>
+					<id>HI4Z9P86S3</id>
+					<organizationId>SFBJUTH7V8</organizationId>
+					<siteId>WQQSA2JUMH</siteId>
+					<orderId>H3WP2WVHED</orderId>
+					<patientId>Y54ZVDK4EJ</patientId>
+					<isVoided>false</isVoided>
+					<prescriptionId>1WKQZNL5UY</prescriptionId>
+					<description />
+					<rxNumber>101701</rxNumber>
+					<ndc>50090413700</ndc>
+					<upc />
+					<serviceCode />
+					<dmeCode />
+					<numCount>1</numCount>
+					<quantity>18.0</quantity>
+					<lotNumber>9267231</lotNumber>
+					<expirationDate>2020-09-30T23:59:59</expirationDate>
+					<awp>6244</awp>
+					<mac>0</mac>
+					<cashPrice>0</cashPrice>
+					<cost>4275</cost>
+					<base>4275</base>
+					<discount>0</discount>
+					<discountPlan />
+					<paid>0</paid>
+					<insPatientPays>0</insPatientPays>
+					<insReimbursement>0</insReimbursement>
+					<insLastStatus>0</insLastStatus>
+					<isTaxable>false</isTaxable>
+					<isRefill>false</isRefill>
+					<isBulk>false</isBulk>
+					<isSample>false</isSample>
+					<isDME>false</isDME>
+					<refillNumber>0</refillNumber>
+					<billingType>0</billingType>
+					<refNdc>66993001968</refNdc>
+					<refAwp>6244</refAwp>
+					<refMac>0</refMac>
+					<compoundIdx>0</compoundIdx>
+					<inHouseAdmin>false</inHouseAdmin>
+					<rxStatus />
+					<prescription>
+						<id>1WKQZNL5UY</id>
+						<siteId>WQQSA2JUMH</siteId>
+						<patientId>Y54ZVDK4EJ</patientId>
+						<prescriberId>1YPRJ75VCQ</prescriberId>
+						<midLevelId />
+						<prescriberAgent />
+						<writtenDate>2019-11-19T21:51:28</writtenDate>
+						<renewDate />
+						<voidDate />
+						<transferDate />
+						<printCarryDate />
+						<effectiveDate>0</effectiveDate>
+						<endDate>0</endDate>
+						<isExpired>true</isExpired>
+						<isSample>false</isSample>
+						<gcnseqno>28090</gcnseqno>
+						<compoundParts />
+						<drugName>VENTOLIN HFA 90MCG HFA GM</drugName>
+						<strengthDesc>90MCG</strengthDesc>
+						<form>HFA</form>
+						<unit>GM</unit>
+						<quantity>18.0</quantity>
+						<schedule>0</schedule>
+						<daw>0</daw>
+						<refills>11</refills>
+						<daysSupply>30</daysSupply>
+						<sig>Take 2 puffs every 4hours as needed for wheezing</sig>
+						<icd9 />
+						<note />
+						<treatmentType>0</treatmentType>
+						<originalRefills>11</originalRefills>
+						<rxNumber>101701</rxNumber>
+						<lastFillDate>20191119</lastFillDate>
+						<refillDate />
+						<refillAsNeeded>false</refillAsNeeded>
+						<originCode>1</originCode>
+						<scheduledRxId />
+						<refLocation />
+						<isCommitted>true</isCommitted>
+						<potencyUnitCode />
+						<supplyParts />
+						<prescriberEnc>i=1YPRJ75VCQ|o=SFBJUTH7V8|p=WQQSA2JUMH|c=1557846153154|f=SHERRI|l=HANSEN-BUNDY|e=dr.bundy@wecaretlc.com|t=MD|de=FH2916774|dl=01054406A|ds=Indiana|np=1831105741|a=101 SUZIE LN|ca=Attica|s=Indiana|z=479182009|ph=7657626789|fa=7657626766|emr=DRBUNDY|spi=6671018375|lzd=1626019200000|lsh=1624990633918|ldd=1626123400150|dx=20231031|txs=207P00000X|sst=Registered|epcs=T|ssr=T</prescriberEnc>
+						<midLevelEnc />
+						<prescriber>
+							<id>1YPRJ75VCQ</id>
+							<organizationId>SFBJUTH7V8</organizationId>
+							<primarySiteId>WQQSA2JUMH</primarySiteId>
+							<virtualSiteId />
+							<createdDate>2019-05-14T15:02:33</createdDate>
+							<isDeleted>false</isDeleted>
+							<isDisabled>false</isDisabled>
+							<showDeaLicense>false</showDeaLicense>
+							<showDoctorLicense>false</showDoctorLicense>
+							<isPhysicianAssistant>false</isPhysicianAssistant>
+							<firstName>SHERRI</firstName>
+							<middleName />
+							<lastName>HANSEN-BUNDY</lastName>
+							<email>dr.bundy@wecaretlc.com</email>
+							<title>MD</title>
+							<taxonomies>207P00000X</taxonomies>
+							<deaLicense>FH2916774</deaLicense>
+							<xDeaLicense />
+							<deaSuffix />
+							<doctorLicense>01054406A</doctorLicense>
+							<doctorLicenseState>Indiana</doctorLicenseState>
+							<taxId />
+							<npi>1831105741</npi>
+							<activeProviderNumber />
+							<idahoRegNumber />
+							<labAccountId />
+							<address>101 SUZIE LN</address>
+							<address2 />
+							<city>Attica</city>
+							<state>Indiana</state>
+							<zip>479182009</zip>
+							<countryCode />
+							<phone>7657626789</phone>
+							<fax>7657626766</fax>
+							<imagePath />
+							<emrId>DRBUNDY</emrId>
+							<spiRoot>6671018375</spiRoot>
+							<prescriptionTitle />
+							<disableZeroReporting>false</disableZeroReporting>
+							<lastZeroReportDate>2021-07-11T16:00:00</lastZeroReportDate>
+							<lastSchDispenseDate>2021-06-29T18:17:13</lastSchDispenseDate>
+							<lastDispenseDate>2021-07-12T20:56:40</lastDispenseDate>
+							<deaExpDate>20231031</deaExpDate>
+							<licenseExpDate>0</licenseExpDate>
+							<surescriptsRequestStatus>Registered</surescriptsRequestStatus>
+							<surescriptsRequestEPCS>true</surescriptsRequestEPCS>
+							<surescriptsRequestRefills>true</surescriptsRequestRefills>
+							<licenseInfoEnc />
+							<licenseInfo />
+						</prescriber>
+						<midLevel>
+							<id />
+							<organizationId />
+							<primarySiteId />
+							<virtualSiteId />
+							<createdDate />
+							<isDeleted>false</isDeleted>
+							<isDisabled>false</isDisabled>
+							<showDeaLicense>false</showDeaLicense>
+							<showDoctorLicense>false</showDoctorLicense>
+							<isPhysicianAssistant>false</isPhysicianAssistant>
+							<firstName />
+							<middleName />
+							<lastName />
+							<email />
+							<title />
+							<taxonomies />
+							<deaLicense />
+							<xDeaLicense />
+							<deaSuffix />
+							<doctorLicense />
+							<doctorLicenseState />
+							<taxId />
+							<npi />
+							<activeProviderNumber />
+							<idahoRegNumber />
+							<labAccountId />
+							<address />
+							<address2 />
+							<city />
+							<state />
+							<zip />
+							<countryCode />
+							<phone />
+							<fax />
+							<imagePath />
+							<emrId />
+							<spiRoot />
+							<prescriptionTitle />
+							<disableZeroReporting>false</disableZeroReporting>
+							<lastZeroReportDate />
+							<lastSchDispenseDate />
+							<lastDispenseDate />
+							<deaExpDate>0</deaExpDate>
+							<licenseExpDate>0</licenseExpDate>
+							<surescriptsRequestStatus />
+							<surescriptsRequestEPCS>false</surescriptsRequestEPCS>
+							<surescriptsRequestRefills>false</surescriptsRequestRefills>
+							<licenseInfoEnc />
+							<licenseInfo />
+						</midLevel>
+						<refName />
+						<refAddress />
+						<refAddress2 />
+						<refCity />
+						<refState />
+						<refZip />
+						<refPhone />
+						<refFax />
+						<refSiteId />
+						<refNPI />
+						<facilityId />
+						<facilityName />
+						<facilityAddress />
+						<facilityAddress2 />
+						<facilityCity />
+						<facilityState />
+						<facilityZip />
+						<facilityPhone />
+						<facilityEnc />
+						<inHouse>false</inHouse>
+						<encounterId />
+					</prescription>
+					<drugInfo>
+						<ndc>50090413700</ndc>
+						<gcnseqno>28090</gcnseqno>
+						<hiclseqno>2073</hiclseqno>
+						<medId>00279394</medId>
+						<manufacturer>A-S MEDICATION</manufacturer>
+						<brandName>VENTOLIN HFA</brandName>
+						<genericName>ALBUTEROL SULFATE</genericName>
+						<labelName>ALBUTEROL SUL HFA 90 MCG INH</labelName>
+						<packageQty>18.0</packageQty>
+						<form>HFA</form>
+						<formLong>HFA AER AD</formLong>
+						<unit>GM</unit>
+						<schedule>0</schedule>
+						<isOTC>false</isOTC>
+						<isRebate>false</isRebate>
+						<isRepack>true</isRepack>
+						<isObsolete>false</isObsolete>
+						<routeOfAdmin />
+						<strengthDesc>90MCG</strengthDesc>
+						<enhancedTheraClass>Respiratory Therapy Agents|Asthma/COPD Therapy Agents|Asthma/COPD Therapy - Beta Adrenergic Agents|Asthma/COPD Therapy - Beta 2-Adrenergic Agents, Inhaled, Short Acting</enhancedTheraClass>
+						<drugCat />
+						<gender />
+						<isBrand>false</isBrand>
+						<awp>6244</awp>
+						<awpDate>20190212</awpDate>
+						<source>FDB</source>
+						<mac>0</mac>
+						<leaflet>690</leaflet>
+						<leafletsp>690</leafletsp>
+						<prodCode>6862-0</prodCode>
+						<caution1 />
+						<caution2 />
+						<caution3 />
+						<customLeaflet>false</customLeaflet>
+						<locked>false</locked>
+						<relatedGCNSeqno />
+						<imageUrl />
+						<mpcEnc />
+						<nadacUnit>0.0</nadacUnit>
+						<shape />
+						<size />
+						<color />
+						<imprint />
+						<imprintType />
+						<hasSymbol>false</hasSymbol>
+						<popularity>0</popularity>
+						<papApplicationFilename />
+						<lastUpdate>0</lastUpdate>
+						<gcnb>28090G</gcnb>
+					</drugInfo>
+					<totalQuantity>18.0</totalQuantity>
+					<serialNumber />
+				</OrderItemDescriptor>
+			</items>
+			<selectAndScanInventoryId />
+			<selectedPrescriptionId />
+			<durLogId />
+			<patientEnc>i=Y54ZVDK4EJ|si=WQQSA2JUMH|c=1574199271720|e=205772|f=GRACE+EILEEN|l=BENDER|a=PO+BOX+53|ca=NEWTOWN|s=Indiana|z=479690053|hp=7652995044|do=20091009|g=f|doc=1YPRJ75VCQ|gr=HS1001|o=RemoteLogin|av=T|med=47463001101%7C20191119</patientEnc>
+			<providerEnc>i=1YPRJ75VCQ|o=SFBJUTH7V8|p=WQQSA2JUMH|c=1557846153154|f=SHERRI|l=HANSEN-BUNDY|e=dr.bundy%40wecaretlc.com|t=MD|de=FH2916774|dl=01054406A|ds=Indiana|np=1831105741|a=101+SUZIE+LN|ca=Attica|s=Indiana|z=479182009|ph=7657626789|fa=7657626766|emr=DRBUNDY|spi=6671018375|lzd=1574096400000|lsh=1572377114836|ldd=1574198454244|dx=20201031|txs=207P00000X</providerEnc>
+			<lastName>BENDER</lastName>
+			<physicianAssistantId />
+		</OrderDescriptor>
+	</Orders>
+</Patient>
